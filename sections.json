@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gajian-sale",
+    "title": "Gajian Sale",
+    "cdn_file": "new-collection",
+    "view_all_slug": "Gajian Sale",
+    "bg_image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/sections/gajian-sale.png",
+    "bg_color": "#E63038",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 1,
+    "enabled": true
+  },
+  {
+    "id": "brand-day",
+    "title": "Hyper Brand Day Sale",
+    "cdn_file": "brand-day",
+    "view_all_slug": "brand-day",
+    "bg_image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/sections/brand-day.png",
+    "bg_color": "#6FBBB9",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 2,
+    "enabled": true
+  },
+  {
+    "id": "mid-year-sale",
+    "title": "Mid Year Sale: 7.7",
+    "cdn_file": "7-7",
+    "view_all_slug": "Mid Year Sale: 7.7",
+    "bg_image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/sections/7-7.png",
+    "bg_color": "#FF650C",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 3,
+    "enabled": true
+  }
+]
