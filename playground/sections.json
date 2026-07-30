@@ -1,0 +1,15 @@
+[
+  {
+    "id": "gajian-sale",
+    "title": "Gajian Sale",
+    "cdn_file": "new-collection",
+    "view_all_slug": "Gajian Sale",
+    "bg_image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/sections/gajian-sale.png",
+    "bg_color": "#E63038",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 1,
+    "enabled": true
+  }
+]
