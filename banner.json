@@ -1,14 +1,14 @@
 [
   {
-    "image_url":"https://storage.palmscan.codeoffice.net/shopee-affiliate/banner/banner.png",
+    "image_url": "https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/banner/banner.png",
     "cta_url": "https://shopee.co.id/m/8-8"
   },
   {
-    "image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/banner/banner-3.png",
+    "image_url": "https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/banner/banner-3.png",
     "cta_url": "https://shopee.co.id/m/programtopspender-mytelkomsel"
   },
   {
-    "image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/banner/banner-2.png",
+    "image_url": "https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/banner/banner-2.png",
     "cta_url": "https://my.telkomsel.com/app/flexible-iframe/shopeemytsel"
   }
 ]
