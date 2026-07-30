@@ -1,11 +1,11 @@
 [
   {
-    "id": "gajian-sale",
-    "title": "Gajian Sale",
+    "id": "unilever-hbd",
+    "title": "Unilever Hyper Brand Day",
     "cdn_file": "new-collection",
-    "view_all_slug": "Gajian Sale",
-    "bg_image_url": "https://storage.palmscan.codeoffice.net/shopee-affiliate/sections/gajian-sale.png",
-    "bg_color": "#E63038",
+    "view_all_slug": "Unilever Hyper Brand Day",
+    "bg_image_url": "https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections/brand-day.png",
+    "bg_color": "#6FBBB9",
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
