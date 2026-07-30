@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sI \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\")",
+      "Bash(curl -s \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@$\\(git rev-parse HEAD\\)/sections.json\")",
+      "Bash(curl -s \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/new-collection.json\")",
+      "Bash(curl -s \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/new-collection.json\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/product-for-you.json\")",
+      "Bash(curl -s \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/product-for-you.json\")",
+      "Bash(curl -s \"https://purge.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/product-for-you.json\")",
+      "Bash(curl -s \"https://data.jsdelivr.com/v1/resolve/gh/PBTcode/cdn-shopee-telkomsel/main\")",
+      "Bash(curl -s \"https://data.jsdelivr.com/v1/package/resolve/gh/PBTcode/cdn-shopee-telkomsel/main\")",
+      "Bash(curl -sI \"https://fastly.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\" -o /dev/null -w \"http_version: %{http_version}\\\\nhttp_code: %{http_code}\\\\n\")",
+      "Bash(curl -sI \"https://cdn.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\" -o /dev/null -w \"http_version: %{http_version}\\\\nhttp_code: %{http_code}\\\\n\")",
+      "Bash(curl -sI \"https://fastly.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\")",
+      "Bash(curl -sI \"https://gcore.jsdelivr.net/gh/PBTcode/cdn-shopee-telkomsel@main/sections.json\")",
+      "Bash(curl -sI \"https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections.json\")",
+      "Bash(git -C /Users/dandichristiawan/Work/codeid/cdn-shopee-telkomsel diff)",
+      "Bash(git -C /Users/dandichristiawan/Work/codeid/shopee-x-telkomsel-miniapp diff -- src/shared/api/cdn-data.ts)",
+      "Bash(git -C /Users/dandichristiawan/Work/codeid/shopee-x-telkomsel-miniapp status --porcelain)"
+    ]
+  }
+}
