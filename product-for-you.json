@@ -6,7 +6,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "948",
-      "sales": 50,
+      "sales": 56,
       "priceMax": "23700",
       "priceMin": "23700",
       "productCatIds": [
@@ -62,7 +62,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "700",
-      "sales": 1870,
+      "sales": 1883,
       "priceMax": "17500",
       "priceMin": "17500",
       "productCatIds": [
@@ -90,7 +90,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "3780",
-      "sales": 3020,
+      "sales": 2942,
       "priceMax": "94500",
       "priceMin": "94500",
       "productCatIds": [
@@ -118,7 +118,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "1436",
-      "sales": 51,
+      "sales": 48,
       "priceMax": "35900",
       "priceMin": "35900",
       "productCatIds": [
@@ -146,7 +146,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "1821.6",
-      "sales": 24,
+      "sales": 25,
       "priceMax": "19800",
       "priceMin": "19800",
       "productCatIds": [
@@ -174,7 +174,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "710.6",
-      "sales": 234,
+      "sales": 229,
       "priceMax": "32300",
       "priceMin": "32300",
       "productCatIds": [
@@ -202,7 +202,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "1286.78",
-      "sales": 57,
+      "sales": 53,
       "priceMax": "58490",
       "priceMin": "58490",
       "productCatIds": [
@@ -230,7 +230,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "3731.2",
-      "sales": 65,
+      "sales": 63,
       "priceMax": "116600",
       "priceMin": "116600",
       "productCatIds": [
@@ -257,17 +257,17 @@
       "commissionRate": "0.102",
       "sellerCommissionRate": "0.09",
       "shopeeCommissionRate": "0.012",
-      "commission": "8384.4",
-      "sales": 517,
-      "priceMax": "82200",
-      "priceMin": "82200",
+      "commission": "7701",
+      "sales": 540,
+      "priceMax": "75500",
+      "priceMin": "75500",
       "productCatIds": [
         100629,
         100651,
         100824
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 0,
+      "priceDiscountRate": 8,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134301-8259k-mftkvvdvss2458",
       "productName": "NESCAFE GOLD Kopi Instan Kopi Hitam Kopi Bubuk Jar 50gr",
       "shopId": 52733860,
@@ -286,7 +286,7 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "4461.6",
-      "sales": 770,
+      "sales": 778,
       "priceMax": "85800",
       "priceMin": "85800",
       "productCatIds": [
@@ -314,7 +314,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "637.2",
-      "sales": 55,
+      "sales": 56,
       "priceMax": "15930",
       "priceMin": "15930",
       "productCatIds": [
@@ -342,7 +342,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "637.2",
-      "sales": 77,
+      "sales": 84,
       "priceMax": "15930",
       "priceMin": "15930",
       "productCatIds": [
@@ -398,7 +398,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4953.8",
-      "sales": 2034,
+      "sales": 2073,
       "priceMax": "79900",
       "priceMin": "79900",
       "productCatIds": [
@@ -453,17 +453,17 @@
       "commissionRate": "0.042",
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
-      "commission": "2872.8",
-      "sales": 25,
-      "priceMax": "68400",
-      "priceMin": "68400",
+      "commission": "2805.6",
+      "sales": 23,
+      "priceMax": "66800",
+      "priceMin": "66800",
       "productCatIds": [
         100636,
         100716,
         101214
       ],
       "ratingStar": "5",
-      "priceDiscountRate": 20,
+      "priceDiscountRate": 22,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-7rd6i-lwcuvhmzjsscf5",
       "productName": "Rinso Detergent Cair Konsentrat Deterjen Matic Mesin Cuci Bukaan Atas 700 mL x3",
       "shopId": 14318452,
@@ -482,7 +482,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "3407.6",
-      "sales": 250,
+      "sales": 260,
       "priceMax": "85190",
       "priceMin": "85190",
       "productCatIds": [
@@ -509,10 +509,10 @@
       "commissionRate": "0.082",
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
-      "commission": "1804",
-      "sales": 579,
-      "priceMax": "22000",
-      "priceMin": "22000",
+      "commission": "1795.8",
+      "sales": 605,
+      "priceMax": "21900",
+      "priceMin": "21900",
       "productCatIds": [
         100630,
         100661,
@@ -537,10 +537,10 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "787.2",
-      "sales": 419,
-      "priceMax": "19680",
-      "priceMin": "19680",
+      "commission": "821.2",
+      "sales": 376,
+      "priceMax": "20530",
+      "priceMin": "20530",
       "productCatIds": [
         100629,
         100652,
@@ -565,17 +565,17 @@
       "commissionRate": "0.042",
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
-      "commission": "2650.2",
+      "commission": "2595.6",
       "sales": 104,
-      "priceMax": "63100",
-      "priceMin": "63100",
+      "priceMax": "61800",
+      "priceMin": "61800",
       "productCatIds": [
         100636,
         100716,
         101213
       ],
       "ratingStar": "5",
-      "priceDiscountRate": 23,
+      "priceDiscountRate": 25,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-81ztn-megxm3nlitq844",
       "productName": "Sunlight Biocare Nature Sabun Cuci Piring 600gr X6 - Sabun Cuci Botol Bayi",
       "shopId": 276953550,
@@ -622,7 +622,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "7824.876",
-      "sales": 1681,
+      "sales": 1683,
       "priceMax": "139999",
       "priceMin": "85053",
       "productCatIds": [
@@ -678,7 +678,7 @@
       "sellerCommissionRate": "0.12",
       "shopeeCommissionRate": "0.012",
       "commission": "49500",
-      "sales": 146,
+      "sales": 150,
       "priceMax": "375000",
       "priceMin": "375000",
       "productCatIds": [
@@ -706,7 +706,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "23960",
-      "sales": 6,
+      "sales": 5,
       "priceMax": "599000",
       "priceMin": "599000",
       "productCatIds": [
@@ -734,7 +734,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "15378",
-      "sales": 24,
+      "sales": 25,
       "priceMax": "699000",
       "priceMin": "699000",
       "productCatIds": [
@@ -790,7 +790,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "11718",
-      "sales": 41,
+      "sales": 28,
       "priceMax": "189000",
       "priceMin": "189000",
       "productCatIds": [
@@ -818,7 +818,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "544",
-      "sales": 2849,
+      "sales": 2929,
       "priceMax": "17000",
       "priceMin": "17000",
       "productCatIds": [
@@ -836,7 +836,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/64474495/22479274863",
-      "offerLink": "https://s.shopee.co.id/6VMegE03ty",
+      "offerLink": "https://s.shopee.co.id/40fMGarjNx",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -846,7 +846,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "771.2",
-      "sales": 741,
+      "sales": 732,
       "priceMax": "24100",
       "priceMin": "24100",
       "productCatIds": [
@@ -874,7 +874,7 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "4674.8",
-      "sales": 23,
+      "sales": 20,
       "priceMax": "89900",
       "priceMin": "89900",
       "productCatIds": [
@@ -930,7 +930,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1302",
-      "sales": 1370,
+      "sales": 1367,
       "priceMax": "38000",
       "priceMin": "21000",
       "productCatIds": [
@@ -949,8 +949,8 @@
       ],
       "productLink": "https://shopee.co.id/product/401724234/15512009362",
       "offerLink": "https://s.shopee.co.id/6fg6QNnkHf",
-      "periodStartTime": 1782786000,
-      "periodEndTime": 1785459659
+      "periodStartTime": 1785466800,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 23767414690,
@@ -958,7 +958,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "3248",
-      "sales": 3205,
+      "sales": 3203,
       "priceMax": "29000",
       "priceMin": "29000",
       "productCatIds": [
@@ -985,17 +985,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "279560",
-      "sales": 10,
-      "priceMax": "6989000",
-      "priceMin": "6989000",
+      "commission": "279960",
+      "sales": 8,
+      "priceMax": "6999000",
+      "priceMin": "6999000",
       "productCatIds": [
         100013,
         100073,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 1,
+      "priceDiscountRate": 0,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-81zvd-mmk7twc3cw056f",
       "productName": "realme 16 Pro 5G 12GB+14GB*|256GB (200MP LumaColor Camera | Golden Focal Portrait Camera | Dimensity 7300-Max 5G Chipset | 7000mAh Titan Battery + 80W Ultra Charge)",
       "shopId": 109598751,
@@ -1014,7 +1014,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6276.136",
-      "sales": 2385,
+      "sales": 2405,
       "priceMax": "176814",
       "priceMin": "101228",
       "productCatIds": [
@@ -1070,7 +1070,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "31734",
-      "sales": 739,
+      "sales": 792,
       "priceMax": "387000",
       "priceMin": "387000",
       "productCatIds": [
@@ -1098,7 +1098,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "23408",
-      "sales": 79,
+      "sales": 81,
       "priceMax": "209000",
       "priceMin": "209000",
       "productCatIds": [
@@ -1154,7 +1154,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "13775.776",
-      "sales": 583,
+      "sales": 578,
       "priceMax": "158999",
       "priceMin": "122998",
       "productCatIds": [
@@ -1172,7 +1172,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/128189691/25477165212",
-      "offerLink": "https://s.shopee.co.id/2VqWN5hfx7",
+      "offerLink": "https://s.shopee.co.id/3qLwCQV6Wh",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -1182,7 +1182,7 @@
       "sellerCommissionRate": "0.005",
       "shopeeCommissionRate": "0.012",
       "commission": "339983",
-      "sales": 14,
+      "sales": 15,
       "priceMax": "22999000",
       "priceMin": "19999000",
       "productCatIds": [
@@ -1210,7 +1210,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5084",
-      "sales": 203,
+      "sales": 198,
       "priceMax": "105000",
       "priceMin": "82000",
       "productCatIds": [
@@ -1238,7 +1238,7 @@
       "sellerCommissionRate": "0.09",
       "shopeeCommissionRate": "0.012",
       "commission": "4692",
-      "sales": 155,
+      "sales": 160,
       "priceMax": "46000",
       "priceMin": "46000",
       "productCatIds": [
@@ -1266,7 +1266,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "50578",
-      "sales": 679,
+      "sales": 669,
       "priceMax": "2599000",
       "priceMin": "2299000",
       "productCatIds": [
@@ -1322,7 +1322,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "7308",
-      "sales": 7,
+      "sales": 6,
       "priceMax": "174000",
       "priceMin": "174000",
       "productCatIds": [
@@ -1350,7 +1350,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "3823.2",
-      "sales": 5268,
+      "sales": 5474,
       "priceMax": "53100",
       "priceMin": "53100",
       "productCatIds": [
@@ -1378,7 +1378,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "12393.8",
-      "sales": 262,
+      "sales": 279,
       "priceMax": "199900",
       "priceMin": "199900",
       "productCatIds": [
@@ -1406,7 +1406,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "15180",
-      "sales": 22,
+      "sales": 23,
       "priceMax": "165000",
       "priceMin": "165000",
       "productCatIds": [
@@ -1434,7 +1434,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "2800",
-      "sales": 541,
+      "sales": 563,
       "priceMax": "107500",
       "priceMin": "87500",
       "productCatIds": [
@@ -1461,17 +1461,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "3236.4",
-      "sales": 142,
-      "priceMax": "80910",
-      "priceMin": "80910",
+      "commission": "3560",
+      "sales": 132,
+      "priceMax": "89000",
+      "priceMin": "89000",
       "productCatIds": [
         100630,
         100662,
         100884
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 65,
+      "priceDiscountRate": 61,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224s-mgg3e3it26142a",
       "productName": "[BAYAR 70RB DAPAT 5] Madame Gie Necessity Micellar Water Series",
       "shopId": 94309880,
@@ -1490,7 +1490,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "12334.28",
-      "sales": 1509,
+      "sales": 1501,
       "priceMax": "560280",
       "priceMin": "198940",
       "productCatIds": [
@@ -1518,7 +1518,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "2893.8",
-      "sales": 225,
+      "sales": 223,
       "priceMax": "68900",
       "priceMin": "68900",
       "productCatIds": [
@@ -1536,7 +1536,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/229515338/26008877685",
-      "offerLink": "https://s.shopee.co.id/4LIBe6rkv8",
+      "offerLink": "https://s.shopee.co.id/AAFzIm8zv5",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -1546,8 +1546,8 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1047.8",
-      "sales": 3035,
-      "priceMax": "22500",
+      "sales": 3045,
+      "priceMax": "20900",
       "priceMin": "16900",
       "productCatIds": [
         100630,
@@ -1555,7 +1555,7 @@
         100884
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 26,
+      "priceDiscountRate": 30,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wo-mma4nbbnuz2afa",
       "productName": "NPURE Micellar Water All Variant 50ml - Pembersih Wajah untuk Semua Jenis Kulit",
       "shopId": 115276607,
@@ -1574,7 +1574,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "27508",
-      "sales": 43,
+      "sales": 42,
       "priceMax": "469000",
       "priceMin": "299000",
       "productCatIds": [
@@ -1602,7 +1602,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4410",
-      "sales": 645,
+      "sales": 639,
       "priceMax": "105000",
       "priceMin": "105000",
       "productCatIds": [
@@ -1630,7 +1630,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "2307.8",
-      "sales": 13,
+      "sales": 14,
       "priceMax": "104900",
       "priceMin": "104900",
       "productCatIds": [
@@ -1658,7 +1658,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5642",
-      "sales": 99,
+      "sales": 100,
       "priceMax": "91000",
       "priceMin": "91000",
       "productCatIds": [
@@ -1714,7 +1714,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "2110.204",
-      "sales": 4290,
+      "sales": 4272,
       "priceMax": "22937",
       "priceMin": "22937",
       "productCatIds": [
@@ -1742,7 +1742,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "4396",
-      "sales": 295,
+      "sales": 291,
       "priceMax": "109900",
       "priceMin": "109900",
       "productCatIds": [
@@ -1770,7 +1770,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "987.8",
-      "sales": 235,
+      "sales": 213,
       "priceMax": "44900",
       "priceMin": "44900",
       "productCatIds": [
@@ -1798,7 +1798,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5223.562",
-      "sales": 1691,
+      "sales": 1695,
       "priceMax": "125751",
       "priceMin": "84251",
       "productCatIds": [
@@ -1826,7 +1826,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "26588",
-      "sales": 2,
+      "sales": 1,
       "priceMax": "289000",
       "priceMin": "289000",
       "productCatIds": [
@@ -1853,17 +1853,17 @@
       "commissionRate": "0.112",
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
-      "commission": "13428.8",
-      "sales": 10589,
+      "commission": "14894.88",
+      "sales": 10446,
       "priceMax": "132990",
-      "priceMin": "119900",
+      "priceMin": "132990",
       "productCatIds": [
         100630,
         100662,
         100883
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 40,
+      "priceDiscountRate": 34,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wr-mpw030k6800d2a",
       "productName": "[SPECIAL MASTERSHADE] MAKE OVER Powerstay Transferproof Matte Lip Cream - Lipcream x PANTONE Tahan Lama 14 Jam Lip Cream Tidak Kering Ringan Kissproof Ombre Lips Color Nude Lipstick Matte 14H Make Up Long Lasting Somethin Time Less Stain w Maybe Euphoria",
       "shopId": 63984475,
@@ -1873,8 +1873,8 @@
       ],
       "productLink": "https://shopee.co.id/product/63984475/3816570496",
       "offerLink": "https://s.shopee.co.id/7AcN1KC2hO",
-      "periodStartTime": 1782786600,
-      "periodEndTime": 1785459659
+      "periodStartTime": 1785466800,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 29844495095,
@@ -1882,7 +1882,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "844.8",
-      "sales": 98,
+      "sales": 95,
       "priceMax": "38400",
       "priceMin": "38400",
       "productCatIds": [
@@ -1938,7 +1938,7 @@
       "sellerCommissionRate": "0.09",
       "shopeeCommissionRate": "0.012",
       "commission": "20910",
-      "sales": 977,
+      "sales": 983,
       "priceMax": "205000",
       "priceMin": "205000",
       "productCatIds": [
@@ -1956,7 +1956,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/101402367/13254106659",
-      "offerLink": "https://s.shopee.co.id/4fv22jTbS5",
+      "offerLink": "https://s.shopee.co.id/9zwYZNcXZG",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -1966,7 +1966,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "7811.938",
-      "sales": 3134,
+      "sales": 3127,
       "priceMax": "517999",
       "priceMin": "125999",
       "productCatIds": [
@@ -1984,7 +1984,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/11868085/7953106172",
-      "offerLink": "https://s.shopee.co.id/5LAhyEqhPA",
+      "offerLink": "https://s.shopee.co.id/BSdOnjuBc",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -1994,7 +1994,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "241.736",
-      "sales": 603,
+      "sales": 610,
       "priceMax": "10988",
       "priceMin": "10988",
       "productCatIds": [
@@ -2078,7 +2078,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "21798",
-      "sales": 6,
+      "sales": 4,
       "priceMax": "519000",
       "priceMin": "519000",
       "productCatIds": [
@@ -2106,7 +2106,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "1590.4",
-      "sales": 756,
+      "sales": 784,
       "priceMax": "49700",
       "priceMin": "49700",
       "productCatIds": [
@@ -2134,7 +2134,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "3012.8",
-      "sales": 102,
+      "sales": 105,
       "priceMax": "45900",
       "priceMin": "26900",
       "productCatIds": [
@@ -2161,10 +2161,10 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "1139.6",
-      "sales": 23,
+      "commission": "1141.8",
+      "sales": 25,
       "priceMax": "51900",
-      "priceMin": "51800",
+      "priceMin": "51900",
       "productCatIds": [
         100001,
         100018,
@@ -2190,7 +2190,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "14490",
-      "sales": 66,
+      "sales": 63,
       "priceMax": "538000",
       "priceMin": "345000",
       "productCatIds": [
@@ -2274,7 +2274,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "6213.6",
-      "sales": 2025,
+      "sales": 2032,
       "priceMax": "86300",
       "priceMin": "86300",
       "productCatIds": [
@@ -2302,7 +2302,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "1797.2",
-      "sales": 11,
+      "sales": 10,
       "priceMax": "44930",
       "priceMin": "44930",
       "productCatIds": [
@@ -2330,7 +2330,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "5245.8",
-      "sales": 343,
+      "sales": 348,
       "priceMax": "124900",
       "priceMin": "124900",
       "productCatIds": [
@@ -2358,8 +2358,8 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "2688",
-      "sales": 4081,
-      "priceMax": "57000",
+      "sales": 4095,
+      "priceMax": "55000",
       "priceMin": "24000",
       "productCatIds": [
         100630,
@@ -2367,8 +2367,8 @@
         100904
       ],
       "ratingStar": "4.8",
-      "priceDiscountRate": 51,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztk-mr1286xm3rik90",
+      "priceDiscountRate": 53,
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81zto-mqvbrpmzewoyce",
       "productName": "EVERPURE  Sulpure Acne Spot Drying Lotion with BHA - Obat Totol Mengeringkan Jerawat Dalam 1 Hari Dengan Sulfur & BHA BPOM 3ml, 10ml, 20ml",
       "shopId": 200766350,
       "shopName": "Everpure Official Shop",
@@ -2386,7 +2386,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2064.6",
-      "sales": 112,
+      "sales": 111,
       "priceMax": "33300",
       "priceMin": "33300",
       "productCatIds": [
@@ -2414,7 +2414,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "7207.8",
-      "sales": 406,
+      "sales": 397,
       "priceMax": "109900",
       "priceMin": "87900",
       "productCatIds": [
@@ -2442,7 +2442,7 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "9100",
-      "sales": 78,
+      "sales": 76,
       "priceMax": "175000",
       "priceMin": "175000",
       "productCatIds": [
@@ -2470,7 +2470,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "125720",
-      "sales": 35,
+      "sales": 31,
       "priceMax": "4790000",
       "priceMin": "3143000",
       "productCatIds": [
@@ -2498,7 +2498,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "6387.8",
-      "sales": 143,
+      "sales": 144,
       "priceMax": "99900",
       "priceMin": "77900",
       "productCatIds": [
@@ -2526,7 +2526,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "23698",
-      "sales": 68,
+      "sales": 70,
       "priceMax": "289000",
       "priceMin": "289000",
       "productCatIds": [
@@ -2554,7 +2554,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "18858",
-      "sales": 101,
+      "sales": 99,
       "priceMax": "449000",
       "priceMin": "449000",
       "productCatIds": [
@@ -2582,7 +2582,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "32368",
-      "sales": 49,
+      "sales": 46,
       "priceMax": "289000",
       "priceMin": "289000",
       "productCatIds": [
@@ -2610,7 +2610,7 @@
       "sellerCommissionRate": "0.015",
       "shopeeCommissionRate": "0.012",
       "commission": "985.5",
-      "sales": 2244,
+      "sales": 2184,
       "priceMax": "36500",
       "priceMin": "36500",
       "productCatIds": [
@@ -2628,7 +2628,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/267063888/25629722943",
-      "offerLink": "https://s.shopee.co.id/3Vj3vWsZ0Y",
+      "offerLink": "https://s.shopee.co.id/5LAjfzmB1j",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -2638,7 +2638,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "2732.4",
-      "sales": 920,
+      "sales": 892,
       "priceMax": "29700",
       "priceMin": "29700",
       "productCatIds": [
@@ -2665,17 +2665,17 @@
       "commissionRate": "0.072",
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
-      "commission": "5212.8",
-      "sales": 4874,
-      "priceMax": "72400",
-      "priceMin": "72400",
+      "commission": "5112",
+      "sales": 4840,
+      "priceMax": "71000",
+      "priceMin": "71000",
       "productCatIds": [
         100630,
         100662,
         100882
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 23,
+      "priceDiscountRate": 24,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztg-mr1fs9kaslxd76",
       "productName": "MAYBELLINE OFFICIAL Tattoo Liner 48H Liquid Pen Eyeliner Waterproof Make up Line Tattoo High Impact Tahan Lama 48 Jam Hitam Superstay Matte Vinyl Ink",
       "shopId": 62582411,
@@ -2694,7 +2694,7 @@
       "sellerCommissionRate": "0.12",
       "shopeeCommissionRate": "0.012",
       "commission": "3286.8",
-      "sales": 151,
+      "sales": 143,
       "priceMax": "24900",
       "priceMin": "24900",
       "productCatIds": [
@@ -2722,7 +2722,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "18538",
-      "sales": 20,
+      "sales": 17,
       "priceMax": "299000",
       "priceMin": "299000",
       "productCatIds": [
@@ -2750,7 +2750,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "2460",
-      "sales": 15644,
+      "sales": 15682,
       "priceMax": "30000",
       "priceMin": "30000",
       "productCatIds": [
@@ -2768,7 +2768,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/92396779/27423380275",
-      "offerLink": "https://s.shopee.co.id/3qLtW0JvB4",
+      "offerLink": "https://s.shopee.co.id/60QPgtft5Q",
       "periodStartTime": 1781775060,
       "periodEndTime": 32503651199
     },
@@ -2806,7 +2806,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "9357.6",
-      "sales": 939,
+      "sales": 948,
       "priceMax": "222800",
       "priceMin": "222800",
       "productCatIds": [
@@ -2834,7 +2834,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "6256",
-      "sales": 57,
+      "sales": 53,
       "priceMax": "71500",
       "priceMin": "68000",
       "productCatIds": [
@@ -2890,7 +2890,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2449",
-      "sales": 556,
+      "sales": 553,
       "priceMax": "39500",
       "priceMin": "39500",
       "productCatIds": [
@@ -2909,8 +2909,8 @@
       ],
       "productLink": "https://shopee.co.id/product/63983008/25125606491",
       "offerLink": "https://s.shopee.co.id/6VMgE7r9gf",
-      "periodStartTime": 1782784800,
-      "periodEndTime": 1785459659
+      "periodStartTime": 1785463200,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 26890238428,
@@ -2946,7 +2946,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "2156",
-      "sales": 7760,
+      "sales": 7799,
       "priceMax": "118000",
       "priceMin": "98000",
       "productCatIds": [
@@ -2974,7 +2974,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "17235.938",
-      "sales": 194,
+      "sales": 193,
       "priceMax": "277999",
       "priceMin": "277999",
       "productCatIds": [
@@ -3002,7 +3002,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "12264",
-      "sales": 2,
+      "sales": 1,
       "priceMax": "109500",
       "priceMin": "109500",
       "productCatIds": [
@@ -3058,7 +3058,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "861.8",
-      "sales": 2738,
+      "sales": 2691,
       "priceMax": "18000",
       "priceMin": "13900",
       "productCatIds": [
@@ -3114,7 +3114,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "4768",
-      "sales": 1574,
+      "sales": 1557,
       "priceMax": "258998",
       "priceMin": "149000",
       "productCatIds": [
@@ -3132,7 +3132,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/856580029/26551470860",
-      "offerLink": "https://s.shopee.co.id/7VFBsQqkHm",
+      "offerLink": "https://s.shopee.co.id/4LICJUtM0A",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -3170,7 +3170,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "44688",
-      "sales": 2158,
+      "sales": 2146,
       "priceMax": "399000",
       "priceMin": "399000",
       "productCatIds": [
@@ -3188,7 +3188,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/21762495/28241774121",
-      "offerLink": "https://s.shopee.co.id/1qaqfYZJrh",
+      "offerLink": "https://s.shopee.co.id/30moouWBYB",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -3198,7 +3198,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "3663.184",
-      "sales": 3743,
+      "sales": 3727,
       "priceMax": "32707",
       "priceMin": "32707",
       "productCatIds": [
@@ -3226,7 +3226,7 @@
       "sellerCommissionRate": "0.09",
       "shopeeCommissionRate": "0.012",
       "commission": "1081.2",
-      "sales": 117,
+      "sales": 121,
       "priceMax": "10600",
       "priceMin": "10600",
       "productCatIds": [
@@ -3254,7 +3254,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "12952.8",
-      "sales": 471,
+      "sales": 480,
       "priceMax": "189900",
       "priceMin": "179900",
       "productCatIds": [
@@ -3282,7 +3282,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "1179.52",
-      "sales": 2534,
+      "sales": 2574,
       "priceMax": "36860",
       "priceMin": "36860",
       "productCatIds": [
@@ -3300,7 +3300,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/152263707/14023437746",
-      "offerLink": "https://s.shopee.co.id/1qap9hsS4F",
+      "offerLink": "https://s.shopee.co.id/8fRAruBAiX",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -3310,7 +3310,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "21.252",
-      "sales": 122,
+      "sales": 128,
       "priceMax": "966",
       "priceMin": "966",
       "productCatIds": [
@@ -3338,7 +3338,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4650",
-      "sales": 2153,
+      "sales": 2134,
       "priceMax": "75000",
       "priceMin": "75000",
       "productCatIds": [
@@ -3366,7 +3366,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "1344.2",
-      "sales": 4104,
+      "sales": 4155,
       "priceMax": "61100",
       "priceMin": "61100",
       "productCatIds": [
@@ -3394,7 +3394,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "11091.8",
-      "sales": 83,
+      "sales": 77,
       "priceMax": "429900",
       "priceMin": "178900",
       "productCatIds": [
@@ -3417,21 +3417,49 @@
       "periodEndTime": 32503651199
     },
     {
+      "itemId": 55908477571,
+      "commissionRate": "0.092",
+      "sellerCommissionRate": "0.08",
+      "shopeeCommissionRate": "0.012",
+      "commission": "27508",
+      "sales": 8,
+      "priceMax": "299000",
+      "priceMin": "299000",
+      "productCatIds": [
+        100017,
+        100099,
+        100353
+      ],
+      "ratingStar": "4.9",
+      "priceDiscountRate": 0,
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wo-mmzw2hz56ubq76",
+      "productName": "This Is April Nyla Ruffled Top  Atasan Wanita Lengan Pendek Side Black 10142300",
+      "shopId": 60731464,
+      "shopName": "THIS IS APRIL Official Shop",
+      "shopType": [
+        1
+      ],
+      "productLink": "https://shopee.co.id/product/60731464/55908477571",
+      "offerLink": "https://s.shopee.co.id/6VMhPh0pGC",
+      "periodStartTime": 1775723602,
+      "periodEndTime": 32503651199
+    },
+    {
       "itemId": 25063048868,
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "7998",
-      "sales": 233,
+      "commission": "6007.8",
+      "sales": 240,
       "priceMax": "129000",
-      "priceMin": "129000",
+      "priceMin": "96900",
       "productCatIds": [
         100011,
         100054,
         100243
       ],
       "ratingStar": "4.8",
-      "priceDiscountRate": 48,
+      "priceDiscountRate": 61,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7r98t-lrim3ksz73p984",
       "productName": "Dobujack Polo Shirt Bahy Black On Black",
       "shopId": 175456753,
@@ -3450,7 +3478,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "649",
-      "sales": 868,
+      "sales": 859,
       "priceMax": "29500",
       "priceMin": "29500",
       "productCatIds": [
@@ -3534,7 +3562,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5536.724",
-      "sales": 3342,
+      "sales": 3358,
       "priceMax": "115851",
       "priceMin": "89302",
       "productCatIds": [
@@ -3562,7 +3590,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "9300",
-      "sales": 2486,
+      "sales": 2467,
       "priceMax": "246000",
       "priceMin": "150000",
       "productCatIds": [
@@ -3590,7 +3618,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1333",
-      "sales": 13667,
+      "sales": 13505,
       "priceMax": "93840",
       "priceMin": "21500",
       "productCatIds": [
@@ -3599,7 +3627,7 @@
         100891
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 64,
+      "priceDiscountRate": 63,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-824gn-mdyef5tju2o17b",
       "productName": "[NEW!] EMINA Facial Wash Niacinamide Oxy Ceramide Brightening, Sabun Cuci Muka Mencerahkan, Facial Wash Glowing, Pembersih Wajah Lembab Tanpa Ketarik, Oil Control Cleanser, Untuk Segala Jenis Kulit - Bright Stuff",
       "shopId": 63983008,
@@ -3608,9 +3636,9 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/63983008/2202837872",
-      "offerLink": "https://s.shopee.co.id/5fnYT0cSl9",
-      "periodStartTime": 1782784800,
-      "periodEndTime": 1785459659
+      "offerLink": "https://s.shopee.co.id/7ps4WUHbca",
+      "periodStartTime": 1785463200,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 2102417682,
@@ -3618,7 +3646,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "3041.1",
-      "sales": 1523,
+      "sales": 1524,
       "priceMax": "49050",
       "priceMin": "49050",
       "productCatIds": [
@@ -3636,7 +3664,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/53899123/2102417682",
-      "offerLink": "https://s.shopee.co.id/2LX7GUHCTo",
+      "offerLink": "https://s.shopee.co.id/6fg6TcuGux",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -3674,7 +3702,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1835.2",
-      "sales": 205,
+      "sales": 210,
       "priceMax": "29600",
       "priceMin": "29600",
       "productCatIds": [
@@ -3701,17 +3729,17 @@
       "commissionRate": "0.042",
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
-      "commission": "18517.8",
-      "sales": 18,
-      "priceMax": "440900",
-      "priceMin": "440900",
+      "commission": "19295.64",
+      "sales": 14,
+      "priceMax": "459420",
+      "priceMin": "459420",
       "productCatIds": [
         100534,
         100574,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 25,
+      "priceDiscountRate": 22,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-7r990-lxw6r7nb1ngd94",
       "productName": "Jam Tangan Pria Casio General MTP-V006D-1B Black Dial Stainless Steel Band",
       "shopId": 84171914,
@@ -3730,7 +3758,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "15609.6",
-      "sales": 986,
+      "sales": 1003,
       "priceMax": "216800",
       "priceMin": "216800",
       "productCatIds": [
@@ -3758,7 +3786,7 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "3328",
-      "sales": 202,
+      "sales": 200,
       "priceMax": "64000",
       "priceMin": "64000",
       "productCatIds": [
@@ -3786,7 +3814,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "919.8",
-      "sales": 589,
+      "sales": 603,
       "priceMax": "21900",
       "priceMin": "21900",
       "productCatIds": [
@@ -3814,7 +3842,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4737.6",
-      "sales": 164,
+      "sales": 159,
       "priceMax": "112800",
       "priceMin": "112800",
       "productCatIds": [
@@ -3841,18 +3869,18 @@
       "commissionRate": "0.112",
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
-      "commission": "3584",
-      "sales": 1951,
+      "commission": "3012.8",
+      "sales": 1946,
       "priceMax": "32000",
-      "priceMin": "32000",
+      "priceMin": "26900",
       "productCatIds": [
         100630,
         100664,
         100900
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 69,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztj-mr15atx9yyh257",
+      "priceDiscountRate": 74,
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztq-mrb5qz3mvq4i34",
       "productName": "Goute Tinted Lip Balm Glowsy Light - Non Sticky High Pigmented Lightweight Fuller Glossy Lips Hydrating Moist",
       "shopId": 1021981712,
       "shopName": "gouté Official Store",
@@ -3869,17 +3897,17 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "3297.8",
-      "sales": 33,
-      "priceMax": "149900",
-      "priceMin": "149900",
+      "commission": "2199.978",
+      "sales": 34,
+      "priceMax": "99999",
+      "priceMin": "99999",
       "productCatIds": [
         100009,
         100029,
         0
       ],
       "ratingStar": "4.8",
-      "priceDiscountRate": 50,
+      "priceDiscountRate": 67,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-7ra38-m52necxu6pje4f",
       "productName": "Panlandwoo - Kalung Rhodium Wanita Micaela Adjustable",
       "shopId": 77902387,
@@ -3898,7 +3926,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "3930.304",
-      "sales": 3810,
+      "sales": 3767,
       "priceMax": "63392",
       "priceMin": "63392",
       "productCatIds": [
@@ -3953,17 +3981,17 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "22971",
+      "commission": "24614",
       "sales": 1,
-      "priceMax": "370500",
-      "priceMin": "370500",
+      "priceMax": "397000",
+      "priceMin": "397000",
       "productCatIds": [
         100011,
         100054,
         100242
       ],
       "ratingStar": "5",
-      "priceDiscountRate": 30,
+      "priceDiscountRate": 25,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-7rd4e-m70bwz8pb6sp59",
       "productName": "Cardinal Kemeja Lengan Pendek Pria C0014P02B",
       "shopId": 71714210,
@@ -3982,7 +4010,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "720",
-      "sales": 12417,
+      "sales": 12415,
       "priceMax": "17880",
       "priceMin": "10000",
       "productCatIds": [
@@ -3990,7 +4018,7 @@
         100664,
         100898
       ],
-      "ratingStar": "5",
+      "ratingStar": "4.9",
       "priceDiscountRate": 44,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wr-modso43g6ozv9d",
       "productName": "SOME BY MI Real Care Mask Line(10pcs)",
@@ -4000,7 +4028,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/455311481/10854011049",
-      "offerLink": "https://s.shopee.co.id/9ANRP3KCHE",
+      "offerLink": "https://s.shopee.co.id/60QQdgzU5E",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -4010,7 +4038,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "4043.424",
-      "sales": 5583,
+      "sales": 5509,
       "priceMax": "36102",
       "priceMin": "36102",
       "productCatIds": [
@@ -4034,11 +4062,11 @@
     },
     {
       "itemId": 23719163101,
-      "commissionRate": "0.032",
-      "sellerCommissionRate": "0.02",
+      "commissionRate": "0.062",
+      "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "4912",
-      "sales": 1024,
+      "commission": "9517",
+      "sales": 1007,
       "priceMax": "153500",
       "priceMin": "153500",
       "productCatIds": [
@@ -4094,7 +4122,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "3128",
-      "sales": 3462,
+      "sales": 3504,
       "priceMax": "85000",
       "priceMin": "34000",
       "productCatIds": [
@@ -4122,7 +4150,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "1877.8",
-      "sales": 339,
+      "sales": 330,
       "priceMax": "22900",
       "priceMin": "22900",
       "productCatIds": [
@@ -4150,7 +4178,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "13858",
-      "sales": 954,
+      "sales": 973,
       "priceMax": "169000",
       "priceMin": "169000",
       "productCatIds": [
@@ -4178,7 +4206,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "4894.4",
-      "sales": 2940,
+      "sales": 2868,
       "priceMax": "53200",
       "priceMin": "53200",
       "productCatIds": [
@@ -4234,7 +4262,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "14998.4",
-      "sales": 4930,
+      "sales": 4868,
       "priceMax": "468700",
       "priceMin": "468700",
       "productCatIds": [
@@ -4252,7 +4280,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/69979190/14149171685",
-      "offerLink": "https://s.shopee.co.id/4AylRs3ldh",
+      "offerLink": "https://s.shopee.co.id/4LIBh2fpkG",
       "periodStartTime": 1775127300,
       "periodEndTime": 32503651199
     },
@@ -4262,7 +4290,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "9098.8",
-      "sales": 1000,
+      "sales": 1013,
       "priceMax": "117500",
       "priceMin": "98900",
       "productCatIds": [
@@ -4290,7 +4318,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6813.8",
-      "sales": 6831,
+      "sales": 6825,
       "priceMax": "109900",
       "priceMin": "109900",
       "productCatIds": [
@@ -4308,7 +4336,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/62583853/3660172214",
-      "offerLink": "https://s.shopee.co.id/3qLv3G9R6B",
+      "offerLink": "https://s.shopee.co.id/3B6EIVByMx",
       "periodStartTime": 1768801593,
       "periodEndTime": 32503651199
     },
@@ -4318,7 +4346,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6138",
-      "sales": 135,
+      "sales": 133,
       "priceMax": "99000",
       "priceMin": "99000",
       "productCatIds": [
@@ -4345,10 +4373,10 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "69828",
-      "sales": 489,
-      "priceMax": "3174000",
-      "priceMin": "3174000",
+      "commission": "69498",
+      "sales": 491,
+      "priceMax": "3159000",
+      "priceMin": "3159000",
       "productCatIds": [
         100013,
         100073,
@@ -4374,7 +4402,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "7280",
-      "sales": 1259,
+      "sales": 1251,
       "priceMax": "130000",
       "priceMin": "65000",
       "productCatIds": [
@@ -4402,7 +4430,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "14826",
-      "sales": 50,
+      "sales": 49,
       "priceMax": "149965",
       "priceMin": "132375",
       "productCatIds": [
@@ -4458,7 +4486,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "3841.2",
-      "sales": 1333,
+      "sales": 1288,
       "priceMax": "53350",
       "priceMin": "53350",
       "productCatIds": [
@@ -4466,7 +4494,7 @@
         100664,
         100892
       ],
-      "ratingStar": "5",
+      "ratingStar": "4.9",
       "priceDiscountRate": 25,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wk-mlwvmlehzuv6cb",
       "productName": "[Cica Toner 80ml] NPURE Hydrating Acne Toner 80ml",
@@ -4486,7 +4514,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "61488",
-      "sales": 32,
+      "sales": 33,
       "priceMax": "579000",
       "priceMin": "549000",
       "productCatIds": [
@@ -4542,7 +4570,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "9692",
-      "sales": 213,
+      "sales": 221,
       "priceMax": "242300",
       "priceMin": "242300",
       "productCatIds": [
@@ -4597,17 +4625,17 @@
       "commissionRate": "0.132",
       "sellerCommissionRate": "0.12",
       "shopeeCommissionRate": "0.012",
-      "commission": "15444",
-      "sales": 1860,
-      "priceMax": "117000",
-      "priceMin": "117000",
+      "commission": "6006",
+      "sales": 1830,
+      "priceMax": "45500",
+      "priceMin": "45500",
       "productCatIds": [
         100001,
         100019,
         100134
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 0,
+      "priceDiscountRate": 61,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-822wi-moz7rdkdn3t871",
       "productName": "[B1G1] Buy 1 Pepsodent Ultra White Fresh Shine 90g | Pasta Gigi Pemutih Segar GET 1 Pepsodent Ultra White Fresh Shine 90g",
       "shopId": 1517647103,
@@ -4616,7 +4644,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/1517647103/41029000239",
-      "offerLink": "https://s.shopee.co.id/6pzWcmQ41t",
+      "offerLink": "https://s.shopee.co.id/2BDiC6lEWf",
       "periodStartTime": 1776851015,
       "periodEndTime": 32503651199
     },
@@ -4626,7 +4654,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "13790.8",
-      "sales": 48,
+      "sales": 43,
       "priceMax": "149900",
       "priceMin": "149900",
       "productCatIds": [
@@ -4682,7 +4710,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2604",
-      "sales": 1564,
+      "sales": 1561,
       "priceMax": "89800",
       "priceMin": "42000",
       "productCatIds": [
@@ -4700,7 +4728,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/255365082/40814289135",
-      "offerLink": "https://s.shopee.co.id/2BDfccygSd",
+      "offerLink": "https://s.shopee.co.id/20uHwUXOzD",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -4710,7 +4738,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "99755.04",
-      "sales": 32,
+      "sales": 31,
       "priceMax": "2375120",
       "priceMin": "2375120",
       "productCatIds": [
@@ -4738,7 +4766,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "9377.81",
-      "sales": 27,
+      "sales": 25,
       "priceMax": "199000",
       "priceMin": "151255",
       "productCatIds": [
@@ -4766,7 +4794,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "2105.6",
-      "sales": 1410,
+      "sales": 1326,
       "priceMax": "65800",
       "priceMin": "65800",
       "productCatIds": [
@@ -4822,7 +4850,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4578",
-      "sales": 38,
+      "sales": 39,
       "priceMax": "109000",
       "priceMin": "109000",
       "productCatIds": [
@@ -4850,7 +4878,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "1287",
-      "sales": 4116,
+      "sales": 4198,
       "priceMax": "58500",
       "priceMin": "58500",
       "productCatIds": [
@@ -4868,7 +4896,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/18102367/1578755072",
-      "offerLink": "https://s.shopee.co.id/60QPIs1HVo",
+      "offerLink": "https://s.shopee.co.id/20uGuE27G2",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -4878,7 +4906,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "22541.8",
-      "sales": 635,
+      "sales": 645,
       "priceMax": "274900",
       "priceMin": "274900",
       "productCatIds": [
@@ -4906,7 +4934,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "3486",
-      "sales": 25,
+      "sales": 27,
       "priceMax": "83000",
       "priceMin": "83000",
       "productCatIds": [
@@ -4934,7 +4962,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "27988.8",
-      "sales": 66,
+      "sales": 63,
       "priceMax": "249900",
       "priceMin": "249900",
       "productCatIds": [
@@ -4962,7 +4990,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4550.8",
-      "sales": 3054,
+      "sales": 3115,
       "priceMax": "177000",
       "priceMin": "73400",
       "productCatIds": [
@@ -4989,10 +5017,10 @@
       "commissionRate": "0.042",
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
-      "commission": "54600",
-      "sales": 178,
+      "commission": "52495.8",
+      "sales": 183,
       "priceMax": "1848000",
-      "priceMin": "1300000",
+      "priceMin": "1249900",
       "productCatIds": [
         100015,
         100085,
@@ -5018,7 +5046,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "6400",
-      "sales": 4,
+      "sales": 5,
       "priceMax": "160000",
       "priceMin": "160000",
       "productCatIds": [
@@ -5046,7 +5074,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "3938",
-      "sales": 575,
+      "sales": 543,
       "priceMax": "179000",
       "priceMin": "179000",
       "productCatIds": [
@@ -5074,7 +5102,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "11373.9",
-      "sales": 212,
+      "sales": 217,
       "priceMax": "184230",
       "priceMin": "183450",
       "productCatIds": [
@@ -5102,7 +5130,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2101.8",
-      "sales": 29,
+      "sales": 30,
       "priceMax": "33900",
       "priceMin": "33900",
       "productCatIds": [
@@ -5130,7 +5158,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4158",
-      "sales": 204,
+      "sales": 205,
       "priceMax": "259000",
       "priceMin": "99000",
       "productCatIds": [
@@ -5158,7 +5186,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "2600",
-      "sales": 66,
+      "sales": 67,
       "priceMax": "75000",
       "priceMin": "65000",
       "productCatIds": [
@@ -5185,17 +5213,17 @@
       "commissionRate": "0.072",
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
-      "commission": "27288",
-      "sales": 1008,
+      "commission": "25840.8",
+      "sales": 1022,
       "priceMax": "379000",
-      "priceMin": "379000",
+      "priceMin": "358900",
       "productCatIds": [
         100014,
         100078,
         100297
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 53,
+      "priceDiscountRate": 55,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wr-mom19s3vgb9eed",
       "productName": "HijabChic Syahira Pink Nude Dress - Gaun Brukat Tulle Kondangan Elegan",
       "shopId": 55455789,
@@ -5242,7 +5270,7 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "2704",
-      "sales": 435,
+      "sales": 432,
       "priceMax": "52000",
       "priceMin": "52000",
       "productCatIds": [
@@ -5326,7 +5354,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "2822.4",
-      "sales": 10485,
+      "sales": 10414,
       "priceMax": "42840",
       "priceMin": "25200",
       "productCatIds": [
@@ -5344,7 +5372,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/10960132/18447683979",
-      "offerLink": "https://s.shopee.co.id/80BTSZIW6z",
+      "offerLink": "https://s.shopee.co.id/8AUuoRP3Hw",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -5354,7 +5382,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "10072.8",
-      "sales": 726,
+      "sales": 741,
       "priceMax": "139900",
       "priceMin": "139900",
       "productCatIds": [
@@ -5410,7 +5438,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6978.906",
-      "sales": 330,
+      "sales": 325,
       "priceMax": "114000",
       "priceMin": "112563",
       "productCatIds": [
@@ -5438,7 +5466,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "3738",
-      "sales": 287,
+      "sales": 295,
       "priceMax": "89000",
       "priceMin": "89000",
       "productCatIds": [
@@ -5466,8 +5494,8 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "14357.34",
-      "sales": 1747,
-      "priceMax": "359000",
+      "sales": 1745,
+      "priceMax": "315920",
       "priceMin": "231570",
       "productCatIds": [
         100017,
@@ -5521,17 +5549,17 @@
       "commissionRate": "0.082",
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
-      "commission": "10260.66",
-      "sales": 310,
-      "priceMax": "125130",
-      "priceMin": "125130",
+      "commission": "10578",
+      "sales": 309,
+      "priceMax": "129000",
+      "priceMin": "129000",
       "productCatIds": [
         100011,
         100054,
         100243
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 50,
+      "priceDiscountRate": 48,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7ra0p-mcirttrcctoc4a",
       "productName": "Screamous Polo Shirt CROWN LINES BLACK WHITE",
       "shopId": 47422788,
@@ -5550,7 +5578,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "16796.08",
-      "sales": 242,
+      "sales": 244,
       "priceMax": "149965",
       "priceMin": "149965",
       "productCatIds": [
@@ -5578,7 +5606,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "17329.62",
-      "sales": 83,
+      "sales": 85,
       "priceMax": "412610",
       "priceMin": "412610",
       "productCatIds": [
@@ -5596,7 +5624,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/226078218/23835123464",
-      "offerLink": "https://s.shopee.co.id/30mo3lCHXI",
+      "offerLink": "https://s.shopee.co.id/2qTP0M2CrU",
       "periodStartTime": 1768150800,
       "periodEndTime": 2187784379
     },
@@ -5606,7 +5634,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "50288",
-      "sales": 57,
+      "sales": 56,
       "priceMax": "479000",
       "priceMin": "449000",
       "productCatIds": [
@@ -5634,7 +5662,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "15920.1",
-      "sales": 50,
+      "sales": 47,
       "priceMax": "379050",
       "priceMin": "379050",
       "productCatIds": [
@@ -5662,7 +5690,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "37699.2",
-      "sales": 1055,
+      "sales": 1011,
       "priceMax": "523600",
       "priceMin": "523600",
       "productCatIds": [
@@ -5717,17 +5745,17 @@
       "commissionRate": "0.072",
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
-      "commission": "10792.8",
+      "commission": "12888",
       "sales": 308,
       "priceMax": "187000",
-      "priceMin": "149900",
+      "priceMin": "179000",
       "productCatIds": [
         100533,
         100570,
         0
       ],
       "ratingStar": "4.8",
-      "priceDiscountRate": 63,
+      "priceDiscountRate": 56,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7r98s-lzbx977dvtj9ad",
       "productName": "WEIXIER D274 Tas Selempang Pria Kulit Sling Bag Anti Air WX-OS",
       "shopId": 379156938,
@@ -5746,7 +5774,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "503.8",
-      "sales": 14,
+      "sales": 15,
       "priceMax": "26900",
       "priceMin": "22900",
       "productCatIds": [
@@ -5774,7 +5802,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "1001.6",
-      "sales": 416,
+      "sales": 434,
       "priceMax": "31300",
       "priceMin": "31300",
       "productCatIds": [
@@ -5801,17 +5829,17 @@
       "commissionRate": "0.072",
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
-      "commission": "9554.4",
-      "sales": 2124,
-      "priceMax": "132700",
-      "priceMin": "132700",
+      "commission": "6681.6",
+      "sales": 2085,
+      "priceMax": "92800",
+      "priceMin": "92800",
       "productCatIds": [
         100630,
         100659,
         100869
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 0,
+      "priceDiscountRate": 30,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134301-821em-mh0578zqi87i67",
       "productName": "TRESEMME Shampoo PERAWATAN RAMBUT Keratin Smooth Dengan Hydrolyzed Keratin Untuk Rambut Lembut Kualitas Salon 900 ML",
       "shopId": 932470899,
@@ -5820,7 +5848,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/932470899/29474383849",
-      "offerLink": "https://s.shopee.co.id/8pkag2rIpu",
+      "offerLink": "https://s.shopee.co.id/7ps4mwyC4z",
       "periodStartTime": 1768150800,
       "periodEndTime": 1788195599
     },
@@ -5830,7 +5858,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "5488",
-      "sales": 2241,
+      "sales": 2201,
       "priceMax": "49000",
       "priceMin": "49000",
       "productCatIds": [
@@ -5857,17 +5885,17 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "14712.6",
-      "sales": 1402,
-      "priceMax": "283500",
-      "priceMin": "237300",
+      "commission": "12951.8",
+      "sales": 1390,
+      "priceMax": "225000",
+      "priceMin": "208900",
       "productCatIds": [
         100630,
         100662,
         100883
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 16,
+      "priceDiscountRate": 26,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7ra0i-mc79oljowycif8",
       "productName": "3CE Cashmere Hug - Matte Lipstick Transferproof Ringan Soft Hugging Sensation Lipstik Ombre Korean Make up Lip gloss Lipstik  Lipstick Lip tint Liptin Lip Cream Lipcream Lip Stain",
       "shopId": 1350243576,
@@ -5970,7 +5998,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "25854",
-      "sales": 33,
+      "sales": 32,
       "priceMax": "417000",
       "priceMin": "417000",
       "productCatIds": [
@@ -6026,7 +6054,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "8848",
-      "sales": 111,
+      "sales": 112,
       "priceMax": "99000",
       "priceMin": "79000",
       "productCatIds": [
@@ -6054,7 +6082,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "11188.8",
-      "sales": 1828,
+      "sales": 1818,
       "priceMax": "99900",
       "priceMin": "99900",
       "productCatIds": [
@@ -6082,7 +6110,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "5744.2",
-      "sales": 642,
+      "sales": 649,
       "priceMax": "261100",
       "priceMin": "261100",
       "productCatIds": [
@@ -6166,7 +6194,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2046",
-      "sales": 440,
+      "sales": 432,
       "priceMax": "33000",
       "priceMin": "33000",
       "productCatIds": [
@@ -6194,7 +6222,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "6160",
-      "sales": 1861,
+      "sales": 1859,
       "priceMax": "107900",
       "priceMin": "55000",
       "productCatIds": [
@@ -6204,7 +6232,7 @@
       ],
       "ratingStar": "4.9",
       "priceDiscountRate": 54,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztg-mr1m1oh46uiq01",
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81zte-mr1jenmrwagx15",
       "productName": "Bonavie Eau de Parfum - Creme Canele 30ml Parfum Wangi Tahan Lama EDP Sweet Manis Elegan",
       "shopId": 681243698,
       "shopName": "Bonavie Official Shop",
@@ -6221,17 +6249,17 @@
       "commissionRate": "0.052",
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
-      "commission": "6318",
-      "sales": 46,
-      "priceMax": "121500",
-      "priceMin": "121500",
+      "commission": "6791.2",
+      "sales": 43,
+      "priceMax": "130600",
+      "priceMin": "130600",
       "productCatIds": [
         100009,
         100028,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 50,
+      "priceDiscountRate": 47,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224w-mibmeg1bdypwfd",
       "productName": "Evernext -Topi Bucket Hat Pria Topi Rimba Topi Travelling Outdoor Gunung Topi Camping Adventure Pria",
       "shopId": 58827295,
@@ -6250,7 +6278,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "2528",
-      "sales": 1800,
+      "sales": 1777,
       "priceMax": "79000",
       "priceMin": "79000",
       "productCatIds": [
@@ -6278,7 +6306,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "2982",
-      "sales": 459,
+      "sales": 449,
       "priceMax": "71000",
       "priceMin": "71000",
       "productCatIds": [
@@ -6306,7 +6334,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "790.4",
-      "sales": 26013,
+      "sales": 26482,
       "priceMax": "24700",
       "priceMin": "24700",
       "productCatIds": [
@@ -6362,7 +6390,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "3100",
-      "sales": 835,
+      "sales": 816,
       "priceMax": "50000",
       "priceMin": "50000",
       "productCatIds": [
@@ -6390,7 +6418,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "12138",
-      "sales": 807,
+      "sales": 816,
       "priceMax": "289000",
       "priceMin": "289000",
       "productCatIds": [
@@ -6418,7 +6446,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "10578",
-      "sales": 307,
+      "sales": 304,
       "priceMax": "129000",
       "priceMin": "129000",
       "productCatIds": [
@@ -6446,7 +6474,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "1009.8",
-      "sales": 46,
+      "sales": 48,
       "priceMax": "45900",
       "priceMin": "45900",
       "productCatIds": [
@@ -6473,17 +6501,17 @@
       "commissionRate": "0.032",
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
-      "commission": "1599.968",
-      "sales": 4032,
-      "priceMax": "199999",
-      "priceMin": "49999",
+      "commission": "1728",
+      "sales": 4010,
+      "priceMax": "239000",
+      "priceMin": "54000",
       "productCatIds": [
         100630,
         102002,
         102003
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 63,
+      "priceDiscountRate": 56,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wj-mmtryzh3u8zlb1",
       "productName": "[Amanda Zahra's Pick] Finally Found You! BLACK RICE+ AI High-Concentrated Brightening Body Soap | Sabun Pencerah Badan & Kulit Kusam twinpack",
       "shopId": 856580029,
@@ -6492,7 +6520,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/856580029/50555404293",
-      "offerLink": "https://s.shopee.co.id/6L3FUlWoWN",
+      "offerLink": "https://s.shopee.co.id/9ANRRwMga8",
       "periodStartTime": 1769524421,
       "periodEndTime": 32503651199
     },
@@ -6502,7 +6530,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "3202.976",
-      "sales": 3768,
+      "sales": 3740,
       "priceMax": "28598",
       "priceMin": "28598",
       "productCatIds": [
@@ -6530,8 +6558,8 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "11132",
-      "sales": 4009,
-      "priceMax": "160000",
+      "sales": 3974,
+      "priceMax": "121000",
       "priceMin": "121000",
       "productCatIds": [
         100630,
@@ -6548,7 +6576,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/60328369/5468129570",
-      "offerLink": "https://s.shopee.co.id/1LeZwXyN8A",
+      "offerLink": "https://s.shopee.co.id/4fv24e459m",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -6585,17 +6613,17 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "2089.4",
-      "sales": 1903,
-      "priceMax": "33700",
-      "priceMin": "33700",
+      "commission": "1922",
+      "sales": 1874,
+      "priceMax": "31000",
+      "priceMin": "31000",
       "productCatIds": [
         100636,
         100716,
         101214
       ],
       "ratingStar": "5",
-      "priceDiscountRate": 31,
+      "priceDiscountRate": 36,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-8224u-mhvorv351r0h51",
       "productName": "Molto Pewangi Pakaian Gentle Fresh 7x Kesegaran & Anti Bau 765 mL x3",
       "shopId": 14318452,
@@ -6614,7 +6642,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "3762",
-      "sales": 1775,
+      "sales": 1716,
       "priceMax": "171000",
       "priceMin": "171000",
       "productCatIds": [
@@ -6642,7 +6670,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "8259.826",
-      "sales": 902,
+      "sales": 896,
       "priceMax": "133223",
       "priceMin": "133223",
       "productCatIds": [
@@ -6670,7 +6698,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "15004",
-      "sales": 746,
+      "sales": 756,
       "priceMax": "246400",
       "priceMin": "242000",
       "productCatIds": [
@@ -6698,7 +6726,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "10458",
-      "sales": 4410,
+      "sales": 4359,
       "priceMax": "499000",
       "priceMin": "249000",
       "productCatIds": [
@@ -6716,7 +6744,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/1082522935/21785647904",
-      "offerLink": "https://s.shopee.co.id/AKZOnGNYeb",
+      "offerLink": "https://s.shopee.co.id/80BUjCG5IP",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -6726,7 +6754,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "785.4",
-      "sales": 11309,
+      "sales": 10733,
       "priceMax": "35700",
       "priceMin": "35700",
       "productCatIds": [
@@ -6744,7 +6772,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/30736001/24226497266",
-      "offerLink": "https://s.shopee.co.id/AUsodClbOA",
+      "offerLink": "https://s.shopee.co.id/70IxJLQzHc",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -6782,7 +6810,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5518",
-      "sales": 2313,
+      "sales": 2312,
       "priceMax": "89000",
       "priceMin": "89000",
       "productCatIds": [
@@ -6800,7 +6828,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/3278276/3215890165",
-      "offerLink": "https://s.shopee.co.id/9V0HnjZOPD",
+      "offerLink": "https://s.shopee.co.id/111kiPnQg4",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -6809,10 +6837,10 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "8958.814",
-      "sales": 1387,
-      "priceMax": "279000",
-      "priceMin": "144497",
+      "commission": "8835",
+      "sales": 1380,
+      "priceMax": "251167",
+      "priceMin": "142500",
       "productCatIds": [
         100630,
         100662,
@@ -6866,7 +6894,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "23407.888",
-      "sales": 79,
+      "sales": 80,
       "priceMax": "259000",
       "priceMin": "208999",
       "productCatIds": [
@@ -6950,7 +6978,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "67088",
-      "sales": 109,
+      "sales": 117,
       "priceMax": "824000",
       "priceMin": "599000",
       "productCatIds": [
@@ -6978,7 +7006,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "4177.8",
-      "sales": 31,
+      "sales": 30,
       "priceMax": "189900",
       "priceMin": "189900",
       "productCatIds": [
@@ -7006,7 +7034,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "10018.456",
-      "sales": 118,
+      "sales": 114,
       "priceMax": "161588",
       "priceMin": "161588",
       "productCatIds": [
@@ -7034,7 +7062,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "5944.032",
-      "sales": 2371,
+      "sales": 2381,
       "priceMax": "124015",
       "priceMin": "82556",
       "productCatIds": [
@@ -7062,7 +7090,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "4348.64",
-      "sales": 122,
+      "sales": 119,
       "priceMax": "108716",
       "priceMin": "108716",
       "productCatIds": [
@@ -7116,7 +7144,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "3696",
-      "sales": 2374,
+      "sales": 2396,
       "priceMax": "198000",
       "priceMin": "168000",
       "productCatIds": [
@@ -7172,7 +7200,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "11657.448",
-      "sales": 175,
+      "sales": 170,
       "priceMax": "184900",
       "priceMin": "161909",
       "productCatIds": [
@@ -7200,7 +7228,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2652.36",
-      "sales": 1899,
+      "sales": 1898,
       "priceMax": "47430",
       "priceMin": "42780",
       "productCatIds": [
@@ -7228,7 +7256,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4898",
-      "sales": 55,
+      "sales": 54,
       "priceMax": "79000",
       "priceMin": "79000",
       "productCatIds": [
@@ -7256,7 +7284,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "15680",
-      "sales": 34,
+      "sales": 35,
       "priceMax": "145000",
       "priceMin": "140000",
       "productCatIds": [
@@ -7284,7 +7312,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2901.6",
-      "sales": 3961,
+      "sales": 4012,
       "priceMax": "160500",
       "priceMin": "46800",
       "productCatIds": [
@@ -7312,7 +7340,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "5740",
-      "sales": 4276,
+      "sales": 4250,
       "priceMax": "224000",
       "priceMin": "70000",
       "productCatIds": [
@@ -7331,25 +7359,25 @@
       ],
       "productLink": "https://shopee.co.id/product/524963178/21883282525",
       "offerLink": "https://s.shopee.co.id/9KgrbRQCkm",
-      "periodStartTime": 1782788400,
-      "periodEndTime": 1785459659
+      "periodStartTime": 1785466800,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 24553158071,
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "12836",
-      "sales": 2598,
-      "priceMax": "320900",
-      "priceMin": "320900",
+      "commission": "10320",
+      "sales": 2536,
+      "priceMax": "258000",
+      "priceMin": "258000",
       "productCatIds": [
         100629,
         100648,
         100804
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 10,
+      "priceDiscountRate": 27,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-8224p-mkrk9tpflr7pb3",
       "productName": "BANGO MANIS 700GR - Menu Buka Puasa Masak Semur Daging Scrambled Egg x12",
       "shopId": 14318452,
@@ -7358,7 +7386,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/14318452/24553158071",
-      "offerLink": "https://s.shopee.co.id/9ANPr0JXXA",
+      "offerLink": "https://s.shopee.co.id/9V0Hqs8rxr",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -7396,8 +7424,8 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "4222.728",
-      "sales": 1329,
-      "priceMax": "139500",
+      "sales": 1327,
+      "priceMax": "144489",
       "priceMin": "58649",
       "productCatIds": [
         100630,
@@ -7423,17 +7451,17 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "11966",
-      "sales": 3067,
-      "priceMax": "193000",
-      "priceMin": "193000",
+      "commission": "10850",
+      "sales": 3062,
+      "priceMax": "175000",
+      "priceMin": "175000",
       "productCatIds": [
         100630,
         100662,
         100881
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 32,
+      "priceDiscountRate": 38,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wj-mp5ygvs05slc5c",
       "productName": "[BARU] L'OREAL PARIS INFALLIBLE 24H TINTED SERUM FOUNDATION LIGHTWEIGHT BREATHABLE RINGAN TAHAN HINGGA 24 JAM",
       "shopId": 62579622,
@@ -7452,7 +7480,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "258000",
-      "sales": 39,
+      "sales": 40,
       "priceMax": "6450000",
       "priceMin": "6450000",
       "productCatIds": [
@@ -7480,7 +7508,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "5160",
-      "sales": 220,
+      "sales": 226,
       "priceMax": "129000",
       "priceMin": "129000",
       "productCatIds": [
@@ -7490,7 +7518,7 @@
       ],
       "ratingStar": "4.9",
       "priceDiscountRate": 30,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztn-mfi14fuic0lo93",
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81zte-mrbcmt9nlpms18",
       "productName": "DEXSKIN BY DERMA EXPRESS Retinol Eye Cream 15gr",
       "shopId": 243650388,
       "shopName": "Derma Express Official Shop",
@@ -7508,7 +7536,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4065.6",
-      "sales": 660,
+      "sales": 667,
       "priceMax": "96800",
       "priceMin": "96800",
       "productCatIds": [
@@ -7563,17 +7591,17 @@
       "commissionRate": "0.112",
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
-      "commission": "18422.544",
-      "sales": 4,
-      "priceMax": "164487",
-      "priceMin": "164487",
+      "commission": "19221.776",
+      "sales": 3,
+      "priceMax": "171722",
+      "priceMin": "171623",
       "productCatIds": [
         100532,
         100560,
         0
       ],
       "ratingStar": "4.8",
-      "priceDiscountRate": 76,
+      "priceDiscountRate": 75,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7r98w-llqfcpw68obj0c",
       "productName": "Rowey Sepatu Kerja Wanita Wedges Korea Sellin",
       "shopId": 1065545010,
@@ -7592,7 +7620,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1798",
-      "sales": 7759,
+      "sales": 7804,
       "priceMax": "82000",
       "priceMin": "29000",
       "productCatIds": [
@@ -7647,17 +7675,17 @@
       "commissionRate": "0.142",
       "sellerCommissionRate": "0.13",
       "shopeeCommissionRate": "0.012",
-      "commission": "13333.8",
-      "sales": 323,
-      "priceMax": "93900",
-      "priceMin": "93900",
+      "commission": "12794.2",
+      "sales": 329,
+      "priceMax": "90100",
+      "priceMin": "90100",
       "productCatIds": [
         100001,
         100019,
         100134
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 60,
+      "priceDiscountRate": 61,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134201-822wh-moz7ri7rc7il54",
       "productName": "[B2G2] Buy 2 Pepsodent Ultra White Purified Shine 90g | Pasta Gigi Pemutih untuk Perokok dan Peminum Kopi GET 2 Pepsodent Ultra White Purified Shine 90g",
       "shopId": 1517647103,
@@ -7676,7 +7704,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "1806",
-      "sales": 495,
+      "sales": 501,
       "priceMax": "43000",
       "priceMin": "43000",
       "productCatIds": [
@@ -7704,7 +7732,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "7653.8",
-      "sales": 229,
+      "sales": 232,
       "priceMax": "347900",
       "priceMin": "347900",
       "productCatIds": [
@@ -7722,7 +7750,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/1657263/469297799",
-      "offerLink": "https://s.shopee.co.id/3Vj4ExGiSJ",
+      "offerLink": "https://s.shopee.co.id/3LPfbSpXkc",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -7732,7 +7760,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "27166.6",
-      "sales": 57,
+      "sales": 56,
       "priceMax": "459000",
       "priceMin": "331300",
       "productCatIds": [
@@ -7760,7 +7788,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "6551.8",
-      "sales": 869,
+      "sales": 876,
       "priceMax": "79900",
       "priceMin": "79900",
       "productCatIds": [
@@ -7788,7 +7816,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "5579.28",
-      "sales": 492,
+      "sales": 490,
       "priceMax": "132840",
       "priceMin": "132840",
       "productCatIds": [
@@ -7844,7 +7872,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "1400",
-      "sales": 17616,
+      "sales": 17579,
       "priceMax": "35000",
       "priceMin": "35000",
       "productCatIds": [
@@ -7862,7 +7890,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/790166426/52058046505",
-      "offerLink": "https://s.shopee.co.id/gOrsRdmMH",
+      "offerLink": "https://s.shopee.co.id/8KoKSCe2vu",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -7872,7 +7900,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "4356",
-      "sales": 29,
+      "sales": 28,
       "priceMax": "200000",
       "priceMin": "198000",
       "productCatIds": [
@@ -7900,7 +7928,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "2788.8",
-      "sales": 547,
+      "sales": 557,
       "priceMax": "51900",
       "priceMin": "24900",
       "productCatIds": [
@@ -7928,7 +7956,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1860",
-      "sales": 455,
+      "sales": 452,
       "priceMax": "30000",
       "priceMin": "30000",
       "productCatIds": [
@@ -7955,17 +7983,17 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "12097.8",
-      "sales": 265,
+      "commission": "11613.8",
+      "sales": 272,
       "priceMax": "549900",
-      "priceMin": "549900",
+      "priceMin": "527900",
       "productCatIds": [
         100011,
         100047,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 0,
+      "priceDiscountRate": 4,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztj-mr5h4yahrs3q94",
       "productName": "(Special Price) Levi's® Men's 505™ Regular Jeans (00505-0216)",
       "shopId": 132707782,
@@ -8012,7 +8040,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "21916.44",
-      "sales": 128,
+      "sales": 127,
       "priceMax": "521820",
       "priceMin": "521820",
       "productCatIds": [
@@ -8030,7 +8058,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/226078218/23559615029",
-      "offerLink": "https://s.shopee.co.id/3g2Ur2qOLr",
+      "offerLink": "https://s.shopee.co.id/1gHRcFLzl5",
       "periodStartTime": 1768150800,
       "periodEndTime": 2187784379
     },
@@ -8040,7 +8068,7 @@
       "sellerCommissionRate": "0.2",
       "shopeeCommissionRate": "0.012",
       "commission": "68242.8",
-      "sales": 1519,
+      "sales": 1522,
       "priceMax": "321900",
       "priceMin": "321900",
       "productCatIds": [
@@ -8068,7 +8096,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "10221.2",
-      "sales": 74,
+      "sales": 75,
       "priceMax": "115500",
       "priceMin": "111100",
       "productCatIds": [
@@ -8095,17 +8123,17 @@
       "commissionRate": "0.082",
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
-      "commission": "19261.8",
-      "sales": 455,
-      "priceMax": "236550",
-      "priceMin": "234900",
+      "commission": "20090",
+      "sales": 465,
+      "priceMax": "245000",
+      "priceMin": "245000",
       "productCatIds": [
         100011,
         100050,
         100230
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 53,
+      "priceDiscountRate": 51,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7r98v-m09q95vxp1kn75",
       "productName": "House of Smith Jaket Bomber Pria - Bomen Black #5",
       "shopId": 85434470,
@@ -8152,7 +8180,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5155.92",
-      "sales": 4329,
+      "sales": 4300,
       "priceMax": "88110",
       "priceMin": "83160",
       "productCatIds": [
@@ -8235,17 +8263,17 @@
       "commissionRate": "0.082",
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
-      "commission": "21885.8",
-      "sales": 1397,
+      "commission": "22878",
+      "sales": 1368,
       "priceMax": "279000",
-      "priceMin": "266900",
+      "priceMin": "279000",
       "productCatIds": [
         100633,
         100692,
         101061
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 39,
+      "priceDiscountRate": 36,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7rasl-m3lvzajvnu00d9",
       "productName": "TOMKINS Mandy Vc - Hitam Sepatu Sekolah Perekat Anak",
       "shopId": 48707777,
@@ -8264,7 +8292,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "5945.1",
-      "sales": 255,
+      "sales": 254,
       "priceMax": "149000",
       "priceMin": "141550",
       "productCatIds": [
@@ -8320,7 +8348,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "8556",
-      "sales": 2603,
+      "sales": 2667,
       "priceMax": "138000",
       "priceMin": "138000",
       "productCatIds": [
@@ -8348,7 +8376,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "5250",
-      "sales": 156,
+      "sales": 154,
       "priceMax": "125000",
       "priceMin": "125000",
       "productCatIds": [
@@ -8376,7 +8404,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "12168",
-      "sales": 113,
+      "sales": 121,
       "priceMax": "399000",
       "priceMin": "169000",
       "productCatIds": [
@@ -8404,7 +8432,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "12783.8",
-      "sales": 75,
+      "sales": 78,
       "priceMax": "155900",
       "priceMin": "155900",
       "productCatIds": [
@@ -8432,7 +8460,7 @@
       "sellerCommissionRate": "0.09",
       "shopeeCommissionRate": "0.012",
       "commission": "19227",
-      "sales": 1502,
+      "sales": 1482,
       "priceMax": "203500",
       "priceMin": "188500",
       "productCatIds": [
@@ -8460,7 +8488,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "373.78",
-      "sales": 113,
+      "sales": 111,
       "priceMax": "16990",
       "priceMin": "16990",
       "productCatIds": [
@@ -8488,7 +8516,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6138",
-      "sales": 27,
+      "sales": 23,
       "priceMax": "99000",
       "priceMin": "99000",
       "productCatIds": [
@@ -8516,7 +8544,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "7573.92",
-      "sales": 499,
+      "sales": 498,
       "priceMax": "123750",
       "priceMin": "122160",
       "productCatIds": [
@@ -8544,7 +8572,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "16800",
-      "sales": 584,
+      "sales": 606,
       "priceMax": "150000",
       "priceMin": "150000",
       "productCatIds": [
@@ -8571,17 +8599,17 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "145.288",
-      "sales": 235,
-      "priceMax": "7045",
-      "priceMin": "6604",
+      "commission": "844.8",
+      "sales": 222,
+      "priceMax": "38400",
+      "priceMin": "38400",
       "productCatIds": [
         100009,
         100025,
         100147
       ],
       "ratingStar": "4.7",
-      "priceDiscountRate": 83,
+      "priceDiscountRate": 0,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224x-mk2ckc170ah368",
       "productName": "Satu Keluarga Jepit Rambut Lentur Wanita C1469 Jedai Rambut Cantik Silikon Elastis Wanita Korean Style",
       "shopId": 494896079,
@@ -8600,7 +8628,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1798",
-      "sales": 4054,
+      "sales": 3915,
       "priceMax": "29000",
       "priceMin": "29000",
       "productCatIds": [
@@ -8628,7 +8656,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "21638",
-      "sales": 225,
+      "sales": 220,
       "priceMax": "349000",
       "priceMin": "349000",
       "productCatIds": [
@@ -8655,10 +8683,10 @@
       "commissionRate": "0.032",
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
-      "commission": "1987.2",
-      "sales": 521,
-      "priceMax": "62100",
-      "priceMin": "62100",
+      "commission": "1984",
+      "sales": 523,
+      "priceMax": "62000",
+      "priceMin": "62000",
       "productCatIds": [
         100636,
         100716,
@@ -8674,7 +8702,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/64474495/49354614218",
-      "offerLink": "https://s.shopee.co.id/40fKw9TP3F",
+      "offerLink": "https://s.shopee.co.id/4qESHqp0YE",
       "periodStartTime": 1768297264,
       "periodEndTime": 32503651199
     },
@@ -8683,17 +8711,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "4322.08",
-      "sales": 6861,
-      "priceMax": "108052",
-      "priceMin": "108052",
+      "commission": "2314.92",
+      "sales": 6545,
+      "priceMax": "57873",
+      "priceMin": "57873",
       "productCatIds": [
         100001,
         100002,
         100006
       ],
       "ratingStar": "5",
-      "priceDiscountRate": 1,
+      "priceDiscountRate": 46,
       "imageUrl": "https://cf.shopee.co.id/file/daa9a11d2a2ac2957859c0f884862c83",
       "productName": "Tolak Angin Cair Plus Madu 15 ml 12 Sachet",
       "shopId": 574119945,
@@ -8712,7 +8740,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "415.8",
-      "sales": 84,
+      "sales": 85,
       "priceMax": "18900",
       "priceMin": "18900",
       "productCatIds": [
@@ -8740,8 +8768,8 @@
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
       "commission": "8060",
-      "sales": 155,
-      "priceMax": "179100",
+      "sales": 157,
+      "priceMax": "192100",
       "priceMin": "155000",
       "productCatIds": [
         100016,
@@ -8768,7 +8796,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "7541.1",
-      "sales": 51,
+      "sales": 54,
       "priceMax": "179550",
       "priceMin": "179550",
       "productCatIds": [
@@ -8796,7 +8824,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "2440",
-      "sales": 1187,
+      "sales": 1167,
       "priceMax": "61000",
       "priceMin": "61000",
       "productCatIds": [
@@ -8824,7 +8852,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "3379",
-      "sales": 248,
+      "sales": 251,
       "priceMax": "54500",
       "priceMin": "54500",
       "productCatIds": [
@@ -8843,8 +8871,8 @@
       ],
       "productLink": "https://shopee.co.id/product/63983008/10450711559",
       "offerLink": "https://s.shopee.co.id/1qaqfhDsX3",
-      "periodStartTime": 1782784800,
-      "periodEndTime": 1785459659
+      "periodStartTime": 1785463200,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 10261317376,
@@ -8852,7 +8880,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "10864",
-      "sales": 605,
+      "sales": 568,
       "priceMax": "97000",
       "priceMin": "97000",
       "productCatIds": [
@@ -8862,7 +8890,7 @@
       ],
       "ratingStar": "4.9",
       "priceDiscountRate": 54,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztd-mr1cbxhtnymefc",
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztl-mrbbdvkrz56s2d",
       "productName": "Whitelab Serum Niacinamide 5% Brightening Booster - Cerah Maksimal untuk Kulit Sensitif N5-Dose+ 2.0",
       "shopId": 201071840,
       "shopName": "Whitelab Official Shop",
@@ -8907,17 +8935,17 @@
       "commissionRate": "0.042",
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
-      "commission": "19941.6",
-      "sales": 17103,
-      "priceMax": "474800",
-      "priceMin": "474800",
+      "commission": "19240.2",
+      "sales": 17005,
+      "priceMax": "458100",
+      "priceMin": "458100",
       "productCatIds": [
         100630,
         100664,
         100893
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 7,
+      "priceDiscountRate": 10,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224t-mkhkeg6fcydk56",
       "productName": "La Roche Posay Cicaplast Baume B5+ Soothing Balm 100ml- Krim Kulit Kering/ Iritasi Ringan Wajah/ Badan",
       "shopId": 433144176,
@@ -8936,7 +8964,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "9655.8",
-      "sales": 58,
+      "sales": 59,
       "priceMax": "229900",
       "priceMin": "229900",
       "productCatIds": [
@@ -8964,7 +8992,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "702.35",
-      "sales": 544,
+      "sales": 536,
       "priceMax": "55044",
       "priceMin": "31925",
       "productCatIds": [
@@ -8973,7 +9001,7 @@
         100325
       ],
       "ratingStar": "4.7",
-      "priceDiscountRate": 62,
+      "priceDiscountRate": 58,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-82251-midws5o75jbb50",
       "productName": "Satu Keluarga Tas Dokumen Multifungsi C515 C516 Storage bag Travel Portable Tempat Penyimpanan Sertifikat File Penting",
       "shopId": 494896079,
@@ -8991,17 +9019,17 @@
       "commissionRate": "0.052",
       "sellerCommissionRate": "0.04",
       "shopeeCommissionRate": "0.012",
-      "commission": "1450.8",
-      "sales": 51254,
-      "priceMax": "27900",
-      "priceMin": "27900",
+      "commission": "1398.8",
+      "sales": 50299,
+      "priceMax": "26900",
+      "priceMin": "26900",
       "productCatIds": [
         100630,
         100664,
         100892
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 55,
+      "priceDiscountRate": 56,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224u-mil58xdkmio40c",
       "productName": "SCORA Toner Series 80ml - Hydra Calm Cica Toner, Phytobright Milky Toner, D–Panthenol Barrier Essence",
       "shopId": 1112776376,
@@ -9010,7 +9038,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/1112776376/52350295940",
-      "offerLink": "https://s.shopee.co.id/Lm1KYj5Bw",
+      "offerLink": "https://s.shopee.co.id/8KoKyGkPRM",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -9048,7 +9076,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4336.342",
-      "sales": 65,
+      "sales": 63,
       "priceMax": "69941",
       "priceMin": "69941",
       "productCatIds": [
@@ -9076,7 +9104,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "13112.07",
-      "sales": 260,
+      "sales": 262,
       "priceMax": "211485",
       "priceMin": "211485",
       "productCatIds": [
@@ -9094,7 +9122,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/646363526/20586717898",
-      "offerLink": "https://s.shopee.co.id/3LPeSSUEfG",
+      "offerLink": "https://s.shopee.co.id/40fLIHHNtA",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -9160,7 +9188,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "1026.8",
-      "sales": 218,
+      "sales": 210,
       "priceMax": "25670",
       "priceMin": "25670",
       "productCatIds": [
@@ -9188,7 +9216,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "13616",
-      "sales": 87,
+      "sales": 86,
       "priceMax": "148000",
       "priceMin": "148000",
       "productCatIds": [
@@ -9216,7 +9244,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1600.22",
-      "sales": 1493,
+      "sales": 1489,
       "priceMax": "41640",
       "priceMin": "25810",
       "productCatIds": [
@@ -9244,7 +9272,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "3456",
-      "sales": 4347,
+      "sales": 4368,
       "priceMax": "48000",
       "priceMin": "48000",
       "productCatIds": [
@@ -9272,7 +9300,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "6302.464",
-      "sales": 8145,
+      "sales": 8320,
       "priceMax": "62449",
       "priceMin": "56272",
       "productCatIds": [
@@ -9282,8 +9310,8 @@
       ],
       "ratingStar": "4.9",
       "priceDiscountRate": 13,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztn-mqojjz2qzpxpf2",
-      "productName": "Bundling Bumbu Bunda Elia Fat Oil 100ml (2pcs) - Lemak Daging Asli Lemak Ayam, Sapi & Salmon No MSG  BB Booster MPASI",
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztn-mrae6lmq2g3pb1",
+      "productName": "[BUY 2 GET 3] Bundling Bumbu Bunda Elia Fat Oil 100ml (2pcs) - Lemak Daging Asli Lemak Ayam, Sapi & Salmon No MSG  BB Booster MPASI",
       "shopId": 53987225,
       "shopName": "Bumbu Bunda Official Store",
       "shopType": [
@@ -9300,7 +9328,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "304.42",
-      "sales": 3760,
+      "sales": 3839,
       "priceMax": "4910",
       "priceMin": "4910",
       "productCatIds": [
@@ -9328,7 +9356,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "10009.6",
-      "sales": 32,
+      "sales": 33,
       "priceMax": "179900",
       "priceMin": "108800",
       "productCatIds": [
@@ -9384,7 +9412,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "6138",
-      "sales": 83,
+      "sales": 84,
       "priceMax": "109000",
       "priceMin": "99000",
       "productCatIds": [
@@ -9412,7 +9440,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "14238",
-      "sales": 513,
+      "sales": 534,
       "priceMax": "735000",
       "priceMin": "339000",
       "productCatIds": [
@@ -9440,8 +9468,8 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "2378",
-      "sales": 10188,
-      "priceMax": "167653",
+      "sales": 10136,
+      "priceMax": "184250",
       "priceMin": "29000",
       "productCatIds": [
         100630,
@@ -9468,7 +9496,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "3397.538",
-      "sales": 344,
+      "sales": 334,
       "priceMax": "54799",
       "priceMin": "54799",
       "productCatIds": [
@@ -9580,7 +9608,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "3355.8",
-      "sales": 16628,
+      "sales": 16660,
       "priceMax": "79900",
       "priceMin": "79900",
       "productCatIds": [
@@ -9598,7 +9626,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/684531921/23569792282",
-      "offerLink": "https://s.shopee.co.id/AUsnSAvo12",
+      "offerLink": "https://s.shopee.co.id/6AjqQlWfLk",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -9636,7 +9664,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "1319.422",
-      "sales": 6501,
+      "sales": 6514,
       "priceMax": "22499",
       "priceMin": "21281",
       "productCatIds": [
@@ -9664,7 +9692,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "704",
-      "sales": 2241,
+      "sales": 2262,
       "priceMax": "37850",
       "priceMin": "32000",
       "productCatIds": [
@@ -9692,7 +9720,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4149.6",
-      "sales": 241,
+      "sales": 245,
       "priceMax": "103000",
       "priceMin": "98800",
       "productCatIds": [
@@ -9720,8 +9748,8 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "15498",
-      "sales": 522,
-      "priceMax": "330000",
+      "sales": 529,
+      "priceMax": "189000",
       "priceMin": "189000",
       "productCatIds": [
         100016,
@@ -9748,7 +9776,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "4424",
-      "sales": 1245,
+      "sales": 1272,
       "priceMax": "111700",
       "priceMin": "39500",
       "productCatIds": [
@@ -9804,7 +9832,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "8370",
-      "sales": 77,
+      "sales": 79,
       "priceMax": "135000",
       "priceMin": "135000",
       "productCatIds": [
@@ -9832,7 +9860,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "11088",
-      "sales": 22,
+      "sales": 26,
       "priceMax": "119000",
       "priceMin": "99000",
       "productCatIds": [
@@ -9860,7 +9888,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "844.8",
-      "sales": 152,
+      "sales": 154,
       "priceMax": "38400",
       "priceMin": "38400",
       "productCatIds": [
@@ -9888,7 +9916,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4804.938",
-      "sales": 485,
+      "sales": 480,
       "priceMax": "79499",
       "priceMin": "77499",
       "productCatIds": [
@@ -9915,17 +9943,17 @@
       "commissionRate": "0.112",
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
-      "commission": "11132.8",
-      "sales": 425,
-      "priceMax": "302800",
-      "priceMin": "99400",
+      "commission": "10662.4",
+      "sales": 415,
+      "priceMax": "290000",
+      "priceMin": "95200",
       "productCatIds": [
         100630,
         100661,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 63,
+      "priceDiscountRate": 65,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7ra0h-mbtuaajp2sw6da",
       "productName": "ONIX Fragrance Extrait De Parfum - CONCERT 50ML | Floral Oriental Citrus Perfume Unisex",
       "shopId": 190702037,
@@ -9972,7 +10000,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "1584",
-      "sales": 9091,
+      "sales": 9064,
       "priceMax": "49500",
       "priceMin": "49500",
       "productCatIds": [
@@ -10000,7 +10028,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "2241.8",
-      "sales": 4382,
+      "sales": 4431,
       "priceMax": "101900",
       "priceMin": "101900",
       "productCatIds": [
@@ -10028,7 +10056,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "5646.96",
-      "sales": 4263,
+      "sales": 4246,
       "priceMax": "236280",
       "priceMin": "91080",
       "productCatIds": [
@@ -10046,9 +10074,9 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/63983008/26932859533",
-      "offerLink": "https://s.shopee.co.id/2qTNh1eoJQ",
-      "periodStartTime": 1782784800,
-      "periodEndTime": 1785459659
+      "offerLink": "https://s.shopee.co.id/3g2Vg3xM3Y",
+      "periodStartTime": 1785463200,
+      "periodEndTime": 1788138059
     },
     {
       "itemId": 23618875728,
@@ -10056,8 +10084,8 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "11621.4",
-      "sales": 6262,
-      "priceMax": "1044100",
+      "sales": 6157,
+      "priceMax": "971200",
       "priceMin": "276700",
       "productCatIds": [
         100630,
@@ -10065,7 +10093,7 @@
         100896
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 10,
+      "priceDiscountRate": 12,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822wi-mmk1noz1yqkkc1",
       "productName": "La Roche Posay Mela B3 Niacinamide Serum - Mencerahkan Noda Hitam",
       "shopId": 433144176,
@@ -10074,7 +10102,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/433144176/23618875728",
-      "offerLink": "https://s.shopee.co.id/9pd8CQaMl1",
+      "offerLink": "https://s.shopee.co.id/9zwYPUY07i",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -10084,7 +10112,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "600.78",
-      "sales": 1567,
+      "sales": 1559,
       "priceMax": "9690",
       "priceMin": "9690",
       "productCatIds": [
@@ -10122,7 +10150,7 @@
       ],
       "ratingStar": "4.2",
       "priceDiscountRate": 8,
-      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-81ztp-mqurov4apkw280",
+      "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822ws-mp7h3zco622zeb",
       "productName": "Dyson V12 s Origin Submarine ™ HEPA Wet & Dry Vacuum Cleaner - Penyedot Debu Kering dan Basah | Daya Hisap Kuat | Pet friendly | Filter HEPA",
       "shopId": 317011437,
       "shopName": "Dyson Official Shop",
@@ -10140,7 +10168,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "62000",
-      "sales": 44,
+      "sales": 42,
       "priceMax": "1000000",
       "priceMin": "1000000",
       "productCatIds": [
@@ -10195,17 +10223,17 @@
       "commissionRate": "0.062",
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
-      "commission": "6487.866",
+      "commission": "7185.118",
       "sales": 2689,
-      "priceMax": "104643",
-      "priceMin": "104643",
+      "priceMax": "115889",
+      "priceMin": "115889",
       "productCatIds": [
         100630,
         100662,
         100884
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 40,
+      "priceDiscountRate": 34,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-822ws-mq02k6oeaght83",
       "productName": "GARNIER Micellar Water Oil Infused Cleansing Oil Biphase Skin Care 400ml Skincare Cleansing - Pembersih Wajah & Make up Waterproof Untuk Semua Jenis Kulit Micellar Cleansing Water Pembersih Makeup Wajah Remover",
       "shopId": 62583853,
@@ -10214,7 +10242,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/62583853/1022669522",
-      "offerLink": "https://s.shopee.co.id/8KoKPfsrYs",
+      "offerLink": "https://s.shopee.co.id/6L3G4Jzuwk",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -10224,7 +10252,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "4998",
-      "sales": 73,
+      "sales": 75,
       "priceMax": "119000",
       "priceMin": "119000",
       "productCatIds": [
@@ -10252,7 +10280,7 @@
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
       "commission": "7238",
-      "sales": 70,
+      "sales": 71,
       "priceMax": "329000",
       "priceMin": "329000",
       "productCatIds": [
@@ -10308,7 +10336,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "9520",
-      "sales": 325,
+      "sales": 327,
       "priceMax": "94700",
       "priceMin": "85000",
       "productCatIds": [
@@ -10336,7 +10364,7 @@
       "sellerCommissionRate": "0.1",
       "shopeeCommissionRate": "0.012",
       "commission": "2633.232",
-      "sales": 1508,
+      "sales": 1502,
       "priceMax": "23511",
       "priceMin": "23511",
       "productCatIds": [
@@ -10354,7 +10382,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/129681299/14796025222",
-      "offerLink": "https://s.shopee.co.id/8KoKPg6TWK",
+      "offerLink": "https://s.shopee.co.id/6fg6UoYu5h",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -10419,10 +10447,10 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "1334.8",
-      "sales": 964,
-      "priceMax": "33370",
-      "priceMin": "33370",
+      "commission": "1326.4",
+      "sales": 955,
+      "priceMax": "33160",
+      "priceMin": "33160",
       "productCatIds": [
         100629,
         100652,
@@ -10476,7 +10504,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "39525",
-      "sales": 54,
+      "sales": 55,
       "priceMax": "750000",
       "priceMin": "637500",
       "productCatIds": [
@@ -10532,7 +10560,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "608",
-      "sales": 110,
+      "sales": 118,
       "priceMax": "15200",
       "priceMin": "15200",
       "productCatIds": [
@@ -10588,7 +10616,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "7255.488",
-      "sales": 36,
+      "sales": 37,
       "priceMax": "78864",
       "priceMin": "78864",
       "productCatIds": [
@@ -10616,7 +10644,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "7938",
-      "sales": 155,
+      "sales": 150,
       "priceMax": "189000",
       "priceMin": "189000",
       "productCatIds": [
@@ -10644,7 +10672,7 @@
       "sellerCommissionRate": "0.07",
       "shopeeCommissionRate": "0.012",
       "commission": "2870",
-      "sales": 3732,
+      "sales": 3742,
       "priceMax": "197160",
       "priceMin": "35000",
       "productCatIds": [
@@ -10672,7 +10700,7 @@
       "sellerCommissionRate": "0.02",
       "shopeeCommissionRate": "0.012",
       "commission": "1747.2",
-      "sales": 870,
+      "sales": 886,
       "priceMax": "54600",
       "priceMin": "54600",
       "productCatIds": [
@@ -10700,7 +10728,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "4339.938",
-      "sales": 195,
+      "sales": 205,
       "priceMax": "69999",
       "priceMin": "69999",
       "productCatIds": [
@@ -10728,7 +10756,7 @@
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
       "commission": "2024",
-      "sales": 66,
+      "sales": 65,
       "priceMax": "50600",
       "priceMin": "50600",
       "productCatIds": [
@@ -10755,17 +10783,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "1069.6",
+      "commission": "860",
       "sales": 178,
-      "priceMax": "26740",
-      "priceMin": "26740",
+      "priceMax": "21500",
+      "priceMin": "21500",
       "productCatIds": [
         100629,
         100648,
         100804
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 0,
+      "priceDiscountRate": 20,
       "imageUrl": "https://cf.shopee.co.id/file/sg-11134201-8226n-mhhffgly3fnk7b",
       "productName": "BANGO KECAP MANIS REFILL 700 GR",
       "shopId": 293264190,
@@ -10774,7 +10802,7 @@
         1
       ],
       "productLink": "https://shopee.co.id/product/293264190/3448658112",
-      "offerLink": "https://s.shopee.co.id/7VFDQ9rAA4",
+      "offerLink": "https://s.shopee.co.id/2BDh7DJ5uG",
       "periodStartTime": 1768150800,
       "periodEndTime": 32503651199
     },
@@ -10783,17 +10811,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "95960",
-      "sales": 17,
-      "priceMax": "2619000",
-      "priceMin": "2399000",
+      "commission": "119960",
+      "sales": 16,
+      "priceMax": "2999000",
+      "priceMin": "2999000",
       "productCatIds": [
         100013,
         100073,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 20,
+      "priceDiscountRate": 0,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7ra0g-mdipxtxfwvqs90",
       "productName": "Xiaomi Redmi 15C 6/128GB | 8/256GB - Garansi Indonesia",
       "shopId": 27662413,
@@ -10812,7 +10840,7 @@
       "sellerCommissionRate": "0.06",
       "shopeeCommissionRate": "0.012",
       "commission": "18648",
-      "sales": 84,
+      "sales": 85,
       "priceMax": "259000",
       "priceMin": "259000",
       "productCatIds": [
@@ -10840,7 +10868,7 @@
       "sellerCommissionRate": "0.05",
       "shopeeCommissionRate": "0.012",
       "commission": "2901.6",
-      "sales": 758,
+      "sales": 748,
       "priceMax": "164000",
       "priceMin": "46800",
       "productCatIds": [
@@ -10867,17 +10895,17 @@
       "commissionRate": "0.04",
       "sellerCommissionRate": "0",
       "shopeeCommissionRate": "0.04",
-      "commission": "2272.88",
-      "sales": 2613,
-      "priceMax": "56822",
-      "priceMin": "56822",
+      "commission": "1272.8",
+      "sales": 2564,
+      "priceMax": "31820",
+      "priceMin": "31820",
       "productCatIds": [
         100630,
         100664,
         100904
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 1,
+      "priceDiscountRate": 44,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-8224s-mkj6fg2aou11c7",
       "productName": "Glycore 8% Cream 10 G",
       "shopId": 574119945,
@@ -10896,7 +10924,7 @@
       "sellerCommissionRate": "0.03",
       "shopeeCommissionRate": "0.012",
       "commission": "11083.8",
-      "sales": 24,
+      "sales": 25,
       "priceMax": "263900",
       "priceMin": "263900",
       "productCatIds": [
@@ -10924,7 +10952,7 @@
       "sellerCommissionRate": "0.08",
       "shopeeCommissionRate": "0.012",
       "commission": "1775.6",
-      "sales": 512,
+      "sales": 508,
       "priceMax": "19300",
       "priceMin": "19300",
       "productCatIds": [
@@ -10951,17 +10979,17 @@
       "commissionRate": "0.022",
       "sellerCommissionRate": "0.01",
       "shopeeCommissionRate": "0.012",
-      "commission": "7983.8",
-      "sales": 370,
+      "commission": "8338",
+      "sales": 376,
       "priceMax": "439000",
-      "priceMin": "362900",
+      "priceMin": "379000",
       "productCatIds": [
         100017,
         100108,
         0
       ],
       "ratingStar": "4.9",
-      "priceDiscountRate": 17,
+      "priceDiscountRate": 14,
       "imageUrl": "https://cf.shopee.co.id/file/id-11134207-7rbk5-m7tdeh3kqnr559",
       "productName": "GONEGANI OFFICIAL - Atasan Wanita Bahan Knit Full Kancing Cheer Cardy",
       "shopId": 378803638,
