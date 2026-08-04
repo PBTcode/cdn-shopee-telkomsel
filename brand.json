@@ -2,91 +2,6 @@
   "data": [
     {
       "commissionRate": "0.092",
-      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/rinso.png",
-      "offerLink": "https://s.shopee.co.id/2g9yLmsVch",
-      "originalLink": "https://shopee.co.id/unileverhomecareid",
-      "shopId": 0,
-      "shopName": "Rinso",
-      "ratingStar": "4.9",
-      "shopType": [
-        1
-      ],
-      "remainingBudget": 0,
-      "periodStartTime": 1743064978,
-      "periodEndTime": 32503651199,
-      "sellerCommCoveRatio": "1.0000",
-      "bannerInfo": null
-    },
-    {
-      "commissionRate": "0.092",
-      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/royco.png",
-      "offerLink": "https://s.shopee.co.id/4LICKnMq9c",
-      "originalLink": "https://shopee.co.id/unileverindonesia",
-      "shopId": 0,
-      "shopName": "Royco",
-      "ratingStar": "4.9",
-      "shopType": [
-        1
-      ],
-      "remainingBudget": 0,
-      "periodStartTime": 1743064978,
-      "periodEndTime": 32503651199,
-      "sellerCommCoveRatio": "1.0000",
-      "bannerInfo": null
-    },
-    {
-      "commissionRate": "0.092",
-      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/bango.png",
-      "offerLink": "https://s.shopee.co.id/4LICKnMq9c",
-      "originalLink": "https://shopee.co.id/unileverindonesia",
-      "shopId": 0,
-      "shopName": "Bango",
-      "ratingStar": "4.9",
-      "shopType": [
-        1
-      ],
-      "remainingBudget": 0,
-      "periodStartTime": 1743064978,
-      "periodEndTime": 32503651199,
-      "sellerCommCoveRatio": "1.0000",
-      "bannerInfo": null
-    },
-    {
-      "commissionRate": "0.092",
-      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/tresemme.png",
-      "offerLink": "https://s.shopee.co.id/W5Tm4P5nB",
-      "originalLink": "https://shopee.co.id/unileverbeautyshop",
-      "shopId": 0,
-      "shopName": "Tresemme",
-      "ratingStar": "4.9",
-      "shopType": [
-        1
-      ],
-      "remainingBudget": 0,
-      "periodStartTime": 1743064978,
-      "periodEndTime": 32503651199,
-      "sellerCommCoveRatio": "1.0000",
-      "bannerInfo": null
-    },
-    {
-      "commissionRate": "0.092",
-      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/molto.png",
-      "offerLink": "https://s.shopee.co.id/2g9yLmsVch",
-      "originalLink": "https://shopee.co.id/unileverhomecareid",
-      "shopId": 0,
-      "shopName": "Molto",
-      "ratingStar": "4.9",
-      "shopType": [
-        1
-      ],
-      "remainingBudget": 0,
-      "periodStartTime": 1743064978,
-      "periodEndTime": 32503651199,
-      "sellerCommCoveRatio": "1.0000",
-      "bannerInfo": null
-    },
-    {
-      "commissionRate": "0.092",
       "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/lifebuoy.png",
       "offerLink": "https://s.shopee.co.id/W5Tm4P5nB",
       "originalLink": "https://shopee.co.id/unileverbeautyshop",
@@ -211,6 +126,91 @@
       "originalLink": "https://shopee.co.id/unileverpersonalcare",
       "shopId": 0,
       "shopName": "Zwitsal",
+      "ratingStar": "4.9",
+      "shopType": [
+        1
+      ],
+      "remainingBudget": 0,
+      "periodStartTime": 1743064978,
+      "periodEndTime": 32503651199,
+      "sellerCommCoveRatio": "1.0000",
+      "bannerInfo": null
+    },
+    {
+      "commissionRate": "0.092",
+      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/cif.png",
+      "offerLink": "https://s.shopee.co.id/2g9yLmsVch",
+      "originalLink": "https://shopee.co.id/unileverhomecareid",
+      "shopId": 0,
+      "shopName": "CIF",
+      "ratingStar": "4.9",
+      "shopType": [
+        1
+      ],
+      "remainingBudget": 0,
+      "periodStartTime": 1743064978,
+      "periodEndTime": 32503651199,
+      "sellerCommCoveRatio": "1.0000",
+      "bannerInfo": null
+    },
+    {
+      "commissionRate": "0.092",
+      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/vixal.png",
+      "offerLink": "https://s.shopee.co.id/2g9yLmsVch",
+      "originalLink": "https://shopee.co.id/unileverhomecareid",
+      "shopId": 0,
+      "shopName": "Vixal",
+      "ratingStar": "4.9",
+      "shopType": [
+        1
+      ],
+      "remainingBudget": 0,
+      "periodStartTime": 1743064978,
+      "periodEndTime": 32503651199,
+      "sellerCommCoveRatio": "1.0000",
+      "bannerInfo": null
+    },
+    {
+      "commissionRate": "0.092",
+      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/vaseline.png",
+      "offerLink": "https://s.shopee.co.id/W5Tm4P5nB",
+      "originalLink": "https://shopee.co.id/unileverbeautyshop",
+      "shopId": 0,
+      "shopName": "Vaseline",
+      "ratingStar": "4.9",
+      "shopType": [
+        1
+      ],
+      "remainingBudget": 0,
+      "periodStartTime": 1743064978,
+      "periodEndTime": 32503651199,
+      "sellerCommCoveRatio": "1.0000",
+      "bannerInfo": null
+    },
+    {
+      "commissionRate": "0.092",
+      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/sunsilk.png",
+      "offerLink": "https://s.shopee.co.id/W5Tm4P5nB",
+      "originalLink": "https://shopee.co.id/unileverbeautyshop",
+      "shopId": 0,
+      "shopName": "Sunsilk",
+      "ratingStar": "4.9",
+      "shopType": [
+        1
+      ],
+      "remainingBudget": 0,
+      "periodStartTime": 1743064978,
+      "periodEndTime": 32503651199,
+      "sellerCommCoveRatio": "1.0000",
+      "bannerInfo": null
+    },
+    {
+      "commissionRate": "0.092",
+      "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/brand-image/dove.png",
+      "offerLink": "https://s.shopee.co.id/1gHR9yhpNb",
+      "originalLink": "https://shopee.co.id/unileverpersonalcare",
+      "shopId": 0,
+      "shopName": "Dove",
       "ratingStar": "4.9",
       "shopType": [
         1
