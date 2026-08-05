@@ -1,11 +1,11 @@
 [
   {
-    "id": "brand-day",
-    "title": "Unilever Hyper Brand Day",
+    "id": "supermarket-telkomsel",
+    "title": "Supermarket | MyTelkomsel",
     "cdn_file": "new-collection",
-    "view_all_slug": "Unilever Hyper Brand Day",
-    "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections/brand-day.png",
-    "bg_color": "#6FBBB9",
+    "view_all_slug": "Supermarket | MyTelkomsel",
+    "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections/supermarket.svg",
+    "bg_color": "#325BD7",
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
