@@ -60,7 +60,7 @@
     "view_all_slug": "Supermarket | MyTelkomsel",
     "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/playground/sections/supermarket.svg",
     "bg_color": "#325BD7",
-    "padding": "28rpx 0 28rpx",
+    "padding": "100rpx 0 28rpx",
     "dark": false,
     "limit": 15,
     "order": 4,
