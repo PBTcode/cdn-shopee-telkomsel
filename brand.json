@@ -18,6 +18,91 @@
           "bannerInfo": null
         },
         {
+          "commissionRate": "0.112",
+          "imageUrl": "https://cf.shopee.co.id/file/cbf79f586f0e63a56339e93fd06ef499",
+          "offerLink": "https://s.shopee.co.id/1VyCI192Ul",
+          "originalLink": "https://shopee.co.id/shop/438891817",
+          "shopId": 438891817,
+          "shopName": "Philips Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1743753025,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "1.0000",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.112",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-81ztg-mqn4bee99h4z09",
+          "offerLink": "https://s.shopee.co.id/6VMsFEkjDQ",
+          "originalLink": "https://shopee.co.id/shop/60328369",
+          "shopId": 60328369,
+          "shopName": "Esqa Cosmetics Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1709312400,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.7818",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.072",
+          "imageUrl": "https://cf.shopee.co.id/file/1c4e6ce7775e133d4cacb1dd67a800d3",
+          "offerLink": "https://s.shopee.co.id/1gHcUNQZyo",
+          "originalLink": "https://shopee.co.id/shop/95719812",
+          "shopId": 95719812,
+          "shopName": "furni_online Official Store",
+          "ratingStar": "4.7",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1700067600,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "1.0000",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.062",
+          "imageUrl": "https://cf.shopee.co.id/file/ae9781403fea2db79cafd33c853ade47",
+          "offerLink": "https://s.shopee.co.id/40fXGl4Y55",
+          "originalLink": "https://shopee.co.id/shop/270510657",
+          "shopId": 270510657,
+          "shopName": "adidas Official Shop ",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1785519900,
+          "periodEndTime": 1786381199,
+          "sellerCommCoveRatio": "0.9937",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.062",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7rask-m5y68eg8880ta7",
+          "offerLink": "https://s.shopee.co.id/4AyxT5vopv",
+          "originalLink": "https://shopee.co.id/shop/13192620",
+          "shopId": 13192620,
+          "shopName": "LocknLock Indonesia Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1687712400,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9806",
+          "bannerInfo": null
+        },
+        {
           "commissionRate": "0.052",
           "imageUrl": "https://cf.shopee.co.id/file/b39e1b49f640067e0210c85715fd2914",
           "offerLink": "https://s.shopee.co.id/9V0S6huWEz",
@@ -66,108 +151,6 @@
           "periodStartTime": 1730003356,
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.142",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7r990-luengdx5fc0fb7",
-          "offerLink": "https://s.shopee.co.id/6pzgwQu4YM",
-          "originalLink": "https://shopee.co.id/shop/50708029",
-          "shopId": 50708029,
-          "shopName": "Kenvue Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1785837776,
-          "periodEndTime": 1788195599,
-          "sellerCommCoveRatio": "0.5526",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.042",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7r991-lnuwfupoimx5c1",
-          "offerLink": "https://s.shopee.co.id/1qb0zInua4",
-          "originalLink": "https://shopee.co.id/shop/1108744801",
-          "shopId": 1108744801,
-          "shopName": "CeraVe Official Store",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1728057120,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.7143",
-          "bannerInfo": null
-        },
-{
-          "commissionRate": "0.212",
-          "imageUrl": "https://cf.shopee.co.id/file/8757770bcecb9d189a28947360daa552",
-          "offerLink": "https://s.shopee.co.id/8AV4XTZQqd",
-          "originalLink": "https://shopee.co.id/shop/11277516",
-          "shopId": 11277516,
-          "shopName": "Cetaphil Indonesia",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1707238800,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.7040",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.022",
-          "imageUrl": "https://cf.shopee.co.id/file/bc67ec6fd1784c140a48acb9f378bd76",
-          "offerLink": "https://s.shopee.co.id/9Kh1vaDNHI",
-          "originalLink": "https://shopee.co.id/shop/140593831",
-          "shopId": 140593831,
-          "shopName": "Bardi Smart Home Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1712112959,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9194",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.022",
-          "imageUrl": "https://cf.shopee.co.id/file/fabf9524398c0e258654a840c7e764b5",
-          "offerLink": "https://s.shopee.co.id/9ANbjLL3Tj",
-          "originalLink": "https://shopee.co.id/shop/39406064",
-          "shopId": 39406064,
-          "shopName": "Coocaa Official Store",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1727161429,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-                {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-81zth-mri5klfcakua30",
-          "offerLink": "https://s.shopee.co.id/50Y2li7IyC",
-          "originalLink": "https://shopee.co.id/shop/121235261",
-          "shopId": 121235261,
-          "shopName": "JINISO Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1721557080,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.8205",
           "bannerInfo": null
         }
   ]
