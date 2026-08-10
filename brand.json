@@ -18,57 +18,6 @@
           "bannerInfo": null
         },
         {
-          "commissionRate": "0.162",
-          "imageUrl": "https://cf.shopee.co.id/file/18c2513968be47a6651b117644834eae",
-          "offerLink": "https://s.shopee.co.id/8KobQi7cKd",
-          "originalLink": "https://shopee.co.id/shop/912133875",
-          "shopId": 912133875,
-          "shopName": "Morin Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1781173355,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.0899",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/34ef5548193c998ea5a1aa146f1d63d4",
-          "offerLink": "https://s.shopee.co.id/7Ace2b7C8C",
-          "originalLink": "https://shopee.co.id/shop/277418387",
-          "shopId": 277418387,
-          "shopName": "Tessa Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1775790056,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9679",
-          "bannerInfo": null
-        },                
-        {
-          "commissionRate": "0.04",
-          "imageUrl": "https://cf.shopee.co.id/file/df4556f7550fc7d3fbb1a6d92ad8c0ce",
-          "offerLink": "https://s.shopee.co.id/2gACFE31bX",
-          "originalLink": "https://shopee.co.id/shop/202868604",
-          "shopId": 202868604,
-          "shopName": "Blue Band Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 0,
-          "periodEndTime": 0,
-          "sellerCommCoveRatio": "0.0000",
-          "bannerInfo": null
-        },
-        {
           "commissionRate": "0.022",
           "imageUrl": "https://cf.shopee.co.id/file/d28a756fb3448657b48110a012265992",
           "offerLink": "https://s.shopee.co.id/9V0WNuZA1J",
@@ -84,7 +33,7 @@
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "1.0000",
           "bannerInfo": null
-        },     
+        },        
         {
           "commissionRate": "0.162",
           "imageUrl": "https://cf.shopee.co.id/file/d304014c43d4b28d484c7d1b8cabf869",
@@ -105,7 +54,7 @@
         {
           "commissionRate": "0.072",
           "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7qul8-lk7oduva6nfu8c",
-          "offerLink": "https://s.shopee.co.id/9V0WNrwzQY",
+          "offerLink": "https://s.shopee.co.id/8V82aIX9z2",
           "originalLink": "https://shopee.co.id/shop/1031767240",
           "shopId": 1031767240,
           "shopName": "OATSIDE Official Store",
@@ -114,11 +63,62 @@
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1779690360,
+          "periodStartTime": 1775617267,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
+          "sellerCommCoveRatio": "0.9714",
           "bannerInfo": null
-        },                   
+        },
+        {
+          "commissionRate": "0.162",
+          "imageUrl": "https://cf.shopee.co.id/file/18c2513968be47a6651b117644834eae",
+          "offerLink": "https://s.shopee.co.id/3g2mpYkLMC",
+          "originalLink": "https://shopee.co.id/shop/912133875",
+          "shopId": 912133875,
+          "shopName": "Morin Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1781173355,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.0909",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.072",
+          "imageUrl": "https://cf.shopee.co.id/file/34ef5548193c998ea5a1aa146f1d63d4",
+          "offerLink": "https://s.shopee.co.id/LmKrSNZrt",
+          "originalLink": "https://shopee.co.id/shop/277418387",
+          "shopId": 277418387,
+          "shopName": "Tessa Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1775790056,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9671",
+          "bannerInfo": null
+        },                
+        {
+          "commissionRate": "0.04",
+          "imageUrl": "https://cf.shopee.co.id/file/df4556f7550fc7d3fbb1a6d92ad8c0ce",
+          "offerLink": "https://s.shopee.co.id/2gACFE31bX",
+          "originalLink": "https://shopee.co.id/shop/202868604",
+          "shopId": 202868604,
+          "shopName": "Blue Band Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 0,
+          "periodEndTime": 0,
+          "sellerCommCoveRatio": "0.0000",
+          "bannerInfo": null
+        },                
         {
           "commissionRate": "0.132",
           "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7r98p-lq0h2ke6vmy602",
@@ -152,6 +152,6 @@
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "0.5122",
           "bannerInfo": null
-        }                          
+        }        
   ]
 }

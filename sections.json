@@ -1,18 +1,5 @@
 [
   {
-    "id": "shopee-8.8",
-    "title": "Shopee 8.8 Sale Peak Day",
-    "cdn_file": "shopee-8.8",
-    "view_all_slug": "Shopee 8.8 Sale Peak Day",
-    "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections/8-8.svg",
-    "bg_color": "#A40001",
-    "padding": "100rpx 0 28rpx",
-    "dark": true,
-    "limit": 15,
-    "order": 1,
-    "enabled": true
-  },
-  {
     "id": "supermarket-telkomsel",
     "title": "Supermarket | MyTelkomsel",
     "cdn_file": "new-collection",
@@ -22,7 +9,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
-    "order": 2,
+    "order": 1,
     "enabled": true
   }
 ]
