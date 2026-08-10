@@ -18,6 +18,40 @@
           "bannerInfo": null
         },
         {
+          "commissionRate": "0.162",
+          "imageUrl": "https://cf.shopee.co.id/file/18c2513968be47a6651b117644834eae",
+          "offerLink": "https://s.shopee.co.id/8KobQi7cKd",
+          "originalLink": "https://shopee.co.id/shop/912133875",
+          "shopId": 912133875,
+          "shopName": "Morin Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1781173355,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.0899",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.072",
+          "imageUrl": "https://cf.shopee.co.id/file/34ef5548193c998ea5a1aa146f1d63d4",
+          "offerLink": "https://s.shopee.co.id/7Ace2b7C8C",
+          "originalLink": "https://shopee.co.id/shop/277418387",
+          "shopId": 277418387,
+          "shopName": "Tessa Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1775790056,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9679",
+          "bannerInfo": null
+        },                
+        {
           "commissionRate": "0.04",
           "imageUrl": "https://cf.shopee.co.id/file/df4556f7550fc7d3fbb1a6d92ad8c0ce",
           "offerLink": "https://s.shopee.co.id/2gACFE31bX",
@@ -32,57 +66,6 @@
           "periodStartTime": 0,
           "periodEndTime": 0,
           "sellerCommCoveRatio": "0.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.132",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7r98p-lq0h2ke6vmy602",
-          "offerLink": "https://s.shopee.co.id/2LXLqg6fJK",
-          "originalLink": "https://shopee.co.id/shop/59844523",
-          "shopId": 59844523,
-          "shopName": "Sensodyne, Polident & Scott's",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1722574495,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9398",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7qul8-lk7oduva6nfu8c",
-          "offerLink": "https://s.shopee.co.id/9V0WNrwzQY",
-          "originalLink": "https://shopee.co.id/shop/1031767240",
-          "shopId": 1031767240,
-          "shopName": "OATSIDE Official Store",
-          "ratingStar": "5",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1779690360,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.162",
-          "imageUrl": "https://cf.shopee.co.id/file/d304014c43d4b28d484c7d1b8cabf869",
-          "offerLink": "https://s.shopee.co.id/2qTcRdiJ91",
-          "originalLink": "https://shopee.co.id/shop/59512114",
-          "shopId": 59512114,
-          "shopName": "Dua Belibis Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1715835657,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
           "bannerInfo": null
         },
         {
@@ -101,74 +84,74 @@
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "1.0000",
           "bannerInfo": null
-        },
+        },     
         {
-          "commissionRate": "0.062",
-          "imageUrl": "https://cf.shopee.co.id/file/ae9781403fea2db79cafd33c853ade47",
-          "offerLink": "https://s.shopee.co.id/40fXGl4Y55",
-          "originalLink": "https://shopee.co.id/shop/270510657",
-          "shopId": 270510657,
-          "shopName": "adidas Official Shop ",
+          "commissionRate": "0.162",
+          "imageUrl": "https://cf.shopee.co.id/file/d304014c43d4b28d484c7d1b8cabf869",
+          "offerLink": "https://s.shopee.co.id/2qTcRdiJ91",
+          "originalLink": "https://shopee.co.id/shop/59512114",
+          "shopId": 59512114,
+          "shopName": "Dua Belibis Official Shop",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1785519900,
-          "periodEndTime": 1786381199,
-          "sellerCommCoveRatio": "0.9937",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.052",
-          "imageUrl": "https://cf.shopee.co.id/file/b39e1b49f640067e0210c85715fd2914",
-          "offerLink": "https://s.shopee.co.id/W5hfSwKyP",
-          "originalLink": "https://shopee.co.id/shop/184657283",
-          "shopId": 184657283,
-          "shopName": "freemir Original Store",
-          "ratingStar": "4.8",
-          "shopType": [
-            4
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1742367840,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9611",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.022",
-          "imageUrl": "https://cf.shopee.co.id/file/b222b3e60e08c86c6a31500a28a5ce29",
-          "offerLink": "https://s.shopee.co.id/8fRPOVDRkl",
-          "originalLink": "https://shopee.co.id/shop/217561848",
-          "shopId": 217561848,
-          "shopName": "Aoki Official Shop",
-          "ratingStar": "4.8",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1730003357,
+          "periodStartTime": 1715835657,
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "1.0000",
           "bannerInfo": null
         },
         {
-          "commissionRate": "0.062",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7rask-m5y68eg8880ta7",
-          "offerLink": "https://s.shopee.co.id/5fnnp0JihW",
-          "originalLink": "https://shopee.co.id/shop/13192620",
-          "shopId": 13192620,
-          "shopName": "LocknLock Indonesia Official Store",
+          "commissionRate": "0.072",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7qul8-lk7oduva6nfu8c",
+          "offerLink": "https://s.shopee.co.id/9V0WNrwzQY",
+          "originalLink": "https://shopee.co.id/shop/1031767240",
+          "shopId": 1031767240,
+          "shopName": "OATSIDE Official Store",
+          "ratingStar": "5",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1779690360,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "1.0000",
+          "bannerInfo": null
+        },                   
+        {
+          "commissionRate": "0.132",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7r98p-lq0h2ke6vmy602",
+          "offerLink": "https://s.shopee.co.id/2LXLqg6fJK",
+          "originalLink": "https://shopee.co.id/shop/59844523",
+          "shopId": 59844523,
+          "shopName": "Sensodyne, Polident & Scott's",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1687712400,
+          "periodStartTime": 1722574495,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9821",
+          "sellerCommCoveRatio": "0.9398",
           "bannerInfo": null
-        }                        
+        },
+        {
+          "commissionRate": "0.022",
+          "imageUrl": "https://cf.shopee.co.id/file/26ae02563a8663d648fbba59b49bb1ef",
+          "offerLink": "https://s.shopee.co.id/80Bl2GieOc",
+          "originalLink": "https://shopee.co.id/shop/323520977",
+          "shopId": 323520977,
+          "shopName": "Segi Tiga Emas Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1697216400,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.5122",
+          "bannerInfo": null
+        }                          
   ]
 }
