@@ -7,7 +7,7 @@
     "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/playground/sections/unilever-nestle.png",
     "bg_color": "#F0F2F4",
     "padding": "100rpx 0 28rpx",
-    "dark": false,
+    "dark": true,
     "limit": 15,
     "order": 1,
     "enabled": true
