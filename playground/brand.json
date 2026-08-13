@@ -1,20 +1,20 @@
 {
   "data": [
         {
-          "commissionRate": "0.052",
-          "imageUrl": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/playground/brand-image/sunsilk.png",
-          "offerLink": "https://s.shopee.co.id/qiJDzsWx2",
-          "originalLink": "https://shopee.co.id/shop/932470899",
-          "shopId": 184657283,
-          "shopName": "Sunsilk",
+          "commissionRate": "0.04",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7ra0o-mbell8eshtgf86",
+          "offerLink": "https://s.shopee.co.id/9ANmvuSKWd",
+          "originalLink": "https://shopee.co.id/shop/1571512581",
+          "shopId": 1571512581,
+          "shopName": " BEAR BRAND Official Store",
           "ratingStar": "4.8",
           "shopType": [
-            4
+            1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1743064978,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9664",
+          "periodStartTime": 0,
+          "periodEndTime": 0,
+          "sellerCommCoveRatio": "0.0000",
           "bannerInfo": null
         },
         {
