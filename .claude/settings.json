@@ -18,7 +18,8 @@
       "Bash(curl -sI \"https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections.json\")",
       "Bash(git -C /Users/dandichristiawan/Work/codeid/cdn-shopee-telkomsel diff)",
       "Bash(git -C /Users/dandichristiawan/Work/codeid/shopee-x-telkomsel-miniapp diff -- src/shared/api/cdn-data.ts)",
-      "Bash(git -C /Users/dandichristiawan/Work/codeid/shopee-x-telkomsel-miniapp status --porcelain)"
+      "Bash(git -C /Users/dandichristiawan/Work/codeid/shopee-x-telkomsel-miniapp status --porcelain)",
+      "Bash(python3 -c ' *)"
     ]
   }
 }

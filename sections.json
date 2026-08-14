@@ -1,5 +1,18 @@
 [
   {
+    "id": "nestle-sale",
+    "title": "Nestle Sale",
+    "cdn_file": "nestle",
+    "view_all_slug": "Nestle Sale",
+    "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/sections/unilever-nestle.png",
+    "bg_color": "#F0F2F4",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 1,
+    "enabled": true
+  },  
+  {
     "id": "supermarket-telkomsel",
     "title": "Supermarket | MyTelkomsel",
     "cdn_file": "new-collection",
@@ -9,7 +22,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
-    "order": 1,
+    "order": 2,
     "enabled": true
   }
 ]
