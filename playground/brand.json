@@ -1,20 +1,20 @@
 {
   "data": [
         {
-          "commissionRate": "0.04",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7ra0o-mbell8eshtgf86",
-          "offerLink": "https://s.shopee.co.id/9ANmvuSKWd",
-          "originalLink": "https://shopee.co.id/shop/1571512581",
-          "shopId": 1571512581,
-          "shopName": " BEAR BRAND Official Store",
-          "ratingStar": "4.8",
+          "commissionRate": "0.132",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7rbk8-m8k13npaolj6b5",
+          "offerLink": "https://s.shopee.co.id/8KoojhTndb",
+          "originalLink": "https://shopee.co.id/shop/1517647103",
+          "shopId": 1517647103,
+          "shopName": "Unilever Personal Care Official Store",
+          "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 0,
-          "periodEndTime": 0,
-          "sellerCommCoveRatio": "0.0000",
+          "periodStartTime": 1762138800,
+          "periodEndTime": 1788195599,
+          "sellerCommCoveRatio": "0.8038",
           "bannerInfo": null
         },
         {

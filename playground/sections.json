@@ -1,5 +1,18 @@
 [
   {
+    "id": "unilever-rexona-sale",
+    "title": "Unilever Rexona",
+    "cdn_file": "rexona",
+    "view_all_slug": "Unilever Rexona",
+    "bg_image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/playground/sections/unilever-rexona.svg",
+    "bg_color": "#2E9F90",
+    "padding": "100rpx 0 28rpx",
+    "dark": true,
+    "limit": 15,
+    "order": 1,
+    "enabled": true
+  },  
+  {
     "id": "nestle-sale",
     "title": "Nestle Sale",
     "cdn_file": "nestle",
@@ -9,7 +22,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
-    "order": 1,
+    "order": 2,
     "enabled": true
   },  
   {
@@ -22,7 +35,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
-    "order": 2,
+    "order": 3,
     "enabled": true
   },
   {
@@ -35,7 +48,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": true,
     "limit": 15,
-    "order": 3,
+    "order": 4,
     "enabled": true
   },
   {
@@ -48,7 +61,7 @@
     "padding": "28rpx 0 28rpx",
     "dark": false,
     "limit": 15,
-    "order": 4,
+    "order": 5,
     "enabled": true
   },
   {
@@ -63,7 +76,7 @@
     "padding": "28rpx 0 28rpx",
     "dark": false,
     "limit": 15,
-    "order": 5,
+    "order": 6,
     "enabled": true
   },
   {
@@ -76,7 +89,7 @@
     "padding": "100rpx 0 28rpx",
     "dark": false,
     "limit": 15,
-    "order": 6,
+    "order": 7,
     "enabled": true
   }
 ]
