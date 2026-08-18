@@ -1,6 +1,23 @@
 {
   "data": [
         {
+          "commissionRate": "0.132",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7rbk8-m8k13npaolj6b5",
+          "offerLink": "https://s.shopee.co.id/8KoojhTndb",
+          "originalLink": "https://shopee.co.id/shop/1517647103",
+          "shopId": 1517647103,
+          "shopName": "Unilever Personal Care Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1762138800,
+          "periodEndTime": 1788195599,
+          "sellerCommCoveRatio": "0.8038",
+          "bannerInfo": null
+        },    
+        {
           "commissionRate": "0.04",
           "imageUrl": "https://cf.shopee.co.id/file/89126742a8cf325a9d2e6885de4e5e7e",
           "offerLink": "https://s.shopee.co.id/8fRJgxBgfL",
@@ -17,74 +34,6 @@
           "sellerCommCoveRatio": "0.0361",
           "bannerInfo": null
         },
-        {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/34ef5548193c998ea5a1aa146f1d63d4",
-          "offerLink": "https://s.shopee.co.id/LmKrSNZrt",
-          "originalLink": "https://shopee.co.id/shop/277418387",
-          "shopId": 277418387,
-          "shopName": "Tessa Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1775790056,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9671",
-          "bannerInfo": null
-        },   
-        {
-          "commissionRate": "0.04",
-          "imageUrl": "https://cf.shopee.co.id/file/df4556f7550fc7d3fbb1a6d92ad8c0ce",
-          "offerLink": "https://s.shopee.co.id/2gACFE31bX",
-          "originalLink": "https://shopee.co.id/shop/202868604",
-          "shopId": 202868604,
-          "shopName": "Blue Band Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 0,
-          "periodEndTime": 0,
-          "sellerCommCoveRatio": "0.0000",
-          "bannerInfo": null
-        },     
-        {
-          "commissionRate": "0.132",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7r98p-lq0h2ke6vmy602",
-          "offerLink": "https://s.shopee.co.id/2LXLqg6fJK",
-          "originalLink": "https://shopee.co.id/shop/59844523",
-          "shopId": 59844523,
-          "shopName": "Sensodyne, Polident & Scott's",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1722574495,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9398",
-          "bannerInfo": null
-        },   
-        {
-          "commissionRate": "0.022",
-          "imageUrl": "https://cf.shopee.co.id/file/26ae02563a8663d648fbba59b49bb1ef",
-          "offerLink": "https://s.shopee.co.id/80Bl2GieOc",
-          "originalLink": "https://shopee.co.id/shop/323520977",
-          "shopId": 323520977,
-          "shopName": "Segi Tiga Emas Official Store",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1697216400,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.5122",
-          "bannerInfo": null
-        },                     
         {
           "commissionRate": "0.022",
           "imageUrl": "https://cf.shopee.co.id/file/d28a756fb3448657b48110a012265992",
@@ -152,6 +101,74 @@
           "periodEndTime": 32503651199,
           "sellerCommCoveRatio": "0.0909",
           "bannerInfo": null
-        }     
+        },
+        {
+          "commissionRate": "0.072",
+          "imageUrl": "https://cf.shopee.co.id/file/34ef5548193c998ea5a1aa146f1d63d4",
+          "offerLink": "https://s.shopee.co.id/LmKrSNZrt",
+          "originalLink": "https://shopee.co.id/shop/277418387",
+          "shopId": 277418387,
+          "shopName": "Tessa Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1775790056,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9671",
+          "bannerInfo": null
+        },                
+        {
+          "commissionRate": "0.04",
+          "imageUrl": "https://cf.shopee.co.id/file/df4556f7550fc7d3fbb1a6d92ad8c0ce",
+          "offerLink": "https://s.shopee.co.id/2gACFE31bX",
+          "originalLink": "https://shopee.co.id/shop/202868604",
+          "shopId": 202868604,
+          "shopName": "Blue Band Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 0,
+          "periodEndTime": 0,
+          "sellerCommCoveRatio": "0.0000",
+          "bannerInfo": null
+        },                
+        {
+          "commissionRate": "0.132",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134004-7r98p-lq0h2ke6vmy602",
+          "offerLink": "https://s.shopee.co.id/2LXLqg6fJK",
+          "originalLink": "https://shopee.co.id/shop/59844523",
+          "shopId": 59844523,
+          "shopName": "Sensodyne, Polident & Scott's",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1722574495,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9398",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.022",
+          "imageUrl": "https://cf.shopee.co.id/file/26ae02563a8663d648fbba59b49bb1ef",
+          "offerLink": "https://s.shopee.co.id/80Bl2GieOc",
+          "originalLink": "https://shopee.co.id/shop/323520977",
+          "shopId": 323520977,
+          "shopName": "Segi Tiga Emas Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1697216400,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.5122",
+          "bannerInfo": null
+        }        
   ]
 }
