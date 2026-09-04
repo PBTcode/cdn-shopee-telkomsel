@@ -1,213 +1,26 @@
 {
   "data": [
         {
-          "commissionRate": "0.132",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7rbk8-m8k13npaolj6b5",
-          "offerLink": "https://s.shopee.co.id/8KoojhTndb",
-          "originalLink": "https://shopee.co.id/shop/1517647103",
-          "shopId": 1517647103,
-          "shopName": "Unilever Personal Care Official Store",
+          "commissionRate": "0.032",
+          "imageUrl": "https://cf.shopee.co.id/file/89126742a8cf325a9d2e6885de4e5e7e",
+          "offerLink": "https://s.shopee.co.id/6L4AneArqS",
+          "originalLink": "https://shopee.co.id/shop/65323877",
+          "shopId": 65323877,
+          "shopName": "Shopee Supermarket",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1762138800,
-          "periodEndTime": 1788195599,
-          "sellerCommCoveRatio": "0.8038",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.092",
-          "imageUrl": "https://cf.shopee.co.id/file/de9df65615f90a2ef87d6ca128271ff3",
-          "offerLink": "https://s.shopee.co.id/5q6vRfzKPS",
-          "originalLink": "https://shopee.co.id/shop/196734968",
-          "shopId": 196734968,
-          "shopName": "Ando Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1699376400,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.092",
-          "imageUrl": "https://cf.shopee.co.id/file/89ca4902ae101ff2cc5d4f96b26fd9c3",
-          "offerLink": "https://s.shopee.co.id/2LX3HGPecI",
-          "originalLink": "https://shopee.co.id/shop/195455930",
-          "shopId": 195455930,
-          "shopName": "SOMETHINC Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1696611600,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.8416",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.112",
-          "imageUrl": "https://cf.shopee.co.id/file/8757770bcecb9d189a28947360daa552",
-          "offerLink": "https://s.shopee.co.id/198Uzuc2d",
-          "originalLink": "https://shopee.co.id/shop/11277516",
-          "shopId": 11277516,
-          "shopName": "Cetaphil Indonesia",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1707238800,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.7846",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.112",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-8224u-mkhvnesajvgi10",
-          "offerLink": "https://s.shopee.co.id/4fuy3aqOl5",
-          "originalLink": "https://shopee.co.id/shop/659099231",
-          "shopId": 659099231,
-          "shopName": "Beeru Official Store",
-          "ratingStar": "5",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1669568400,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7rasj-m1z1a4nqzctka5",
-          "offerLink": "https://s.shopee.co.id/8AUqE2fYci",
-          "originalLink": "https://shopee.co.id/shop/121235261",
-          "shopId": 121235261,
-          "shopName": "JINISO Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1721557080,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.8186",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.112",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7r98s-lze53rxqbc3sa1",
-          "offerLink": "https://s.shopee.co.id/9ANKgLmE7B",
-          "originalLink": "https://shopee.co.id/shop/382942819",
-          "shopId": 382942819,
-          "shopName": "Carpet Shop Official Shop",
-          "ratingStar": "4.8",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1770174368,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.092",
-          "imageUrl": "https://cf.shopee.co.id/file/4b149565b3398787ca2e670111f85dec",
-          "offerLink": "https://s.shopee.co.id/2qTH8jMNOn",
-          "originalLink": "https://shopee.co.id/shop/384872406",
-          "shopId": 384872406,
-          "shopName": "Deli Tools Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1645635600,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9982",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.112",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-8224u-mkhvnesajvgi10",
-          "offerLink": "https://s.shopee.co.id/7KvgV18xwr",
-          "originalLink": "https://shopee.co.id/shop/659099231",
-          "shopId": 659099231,
-          "shopName": "Beeru Official Store",
-          "ratingStar": "5",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1669568400,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.092",
-          "imageUrl": "https://cf.shopee.co.id/file/de9df65615f90a2ef87d6ca128271ff3",
-          "offerLink": "https://s.shopee.co.id/4VbV7pRb7B",
-          "originalLink": "https://shopee.co.id/shop/196734968",
-          "shopId": 196734968,
-          "shopName": "Ando Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1699376400,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.072",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7r98s-lo59wa4fznn53d",
-          "offerLink": "https://s.shopee.co.id/LlwACGFmj",
-          "originalLink": "https://shopee.co.id/shop/979969114",
-          "shopId": 979969114,
-          "shopName": "usmile Indonesia Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1774608840,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9054",
-          "bannerInfo": null
-        },
-         {
-          "commissionRate": "0.112",
-          "imageUrl": "https://cf.shopee.co.id/file/39d20d9db62f8c11ed31e61044eac9a1",
-          "offerLink": "https://s.shopee.co.id/1gHJkfOJgu",
-          "originalLink": "https://shopee.co.id/shop/80451242",
-          "shopId": 80451242,
-          "shopName": "PhiLipe Ricci Official Shop",
-          "ratingStar": "4.8",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1652806800,
-          "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "1.0000",
+          "periodStartTime": 1785517200,
+          "periodEndTime": 1789059540,
+          "sellerCommCoveRatio": "0.0525",
           "bannerInfo": null
         },
         {
           "commissionRate": "0.04",
           "imageUrl": "https://cf.shopee.co.id/file/ed3beee9e478eee6ae439dba3424b985",
-          "offerLink": "https://s.shopee.co.id/30mcNBixfu",
+          "offerLink": "https://s.shopee.co.id/LmxeabsxL",
           "originalLink": "https://shopee.co.id/shop/325252644",
           "shopId": 325252644,
           "shopName": "SunCo Official Shop",
@@ -218,92 +31,160 @@
           "remainingBudget": 0,
           "periodStartTime": 1772509925,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.1429",
+          "sellerCommCoveRatio": "0.0909",
           "bannerInfo": null
         },
         {
-          "commissionRate": "0.04",
-          "imageUrl": "https://cf.shopee.co.id/file/89126742a8cf325a9d2e6885de4e5e7e",
-          "offerLink": "https://s.shopee.co.id/AUsdJ1bx7Q",
-          "originalLink": "https://shopee.co.id/shop/65323877",
-          "shopId": 65323877,
-          "shopName": "Shopee Supermarket",
+          "commissionRate": "0.082",
+          "imageUrl": "https://cf.shopee.co.id/file/2c92770a709ead0315ebe5acbd6bf442",
+          "offerLink": "https://s.shopee.co.id/2qUIdFV0y4",
+          "originalLink": "https://shopee.co.id/shop/64474495",
+          "shopId": 64474495,
+          "shopName": "Wings Official Shop",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1782838800,
-          "periodEndTime": 1785517140,
-          "sellerCommCoveRatio": "0.0031",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.022",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7rasl-m5ompfse5rrn13",
-          "offerLink": "https://s.shopee.co.id/9pcwVp4U8V",
-          "originalLink": "https://shopee.co.id/shop/48708202",
-          "shopId": 48708202,
-          "shopName": "Kintakun Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1650560400,
+          "periodStartTime": 1738318214,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.9963",
+          "sellerCommCoveRatio": "0.9720",
           "bannerInfo": null
         },
         {
-          "commissionRate": "0.092",
-          "imageUrl": "https://cf.shopee.co.id/file/271a17534bfe06a9389f8798688e139c",
-          "offerLink": "https://s.shopee.co.id/2g9lygvydD",
-          "originalLink": "https://shopee.co.id/shop/61668240",
-          "shopId": 61668240,
-          "shopName": "Ajinomoto Official Store",
+          "commissionRate": "0.082",
+          "imageUrl": "https://cf.shopee.co.id/file/3e349797b3c66575e8c0d5413aa651f4",
+          "offerLink": "https://s.shopee.co.id/9pe2y8MjIe",
+          "originalLink": "https://shopee.co.id/shop/59763733",
+          "shopId": 59763733,
+          "shopName": "Wardah Official Shop",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1780248420,
-          "periodEndTime": 1785517199,
-          "sellerCommCoveRatio": "0.1493",
-          "bannerInfo": null
-        },
-        {
-          "commissionRate": "0.052",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-822wi-mpuk4q2i83y8d1",
-          "offerLink": "https://s.shopee.co.id/60QDwq7hUF",
-          "originalLink": "https://shopee.co.id/shop/39910038",
-          "shopId": 39910038,
-          "shopName": "PVN Official Shop",
-          "ratingStar": "4.9",
-          "shopType": [
-            1
-          ],
-          "remainingBudget": 0,
-          "periodStartTime": 1732165080,
+          "periodStartTime": 1777533207,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.7115",
+          "sellerCommCoveRatio": "0.6591",
           "bannerInfo": null
         },
         {
           "commissionRate": "0.042",
-          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-7r991-lnuwfupoimx5c1",
-          "offerLink": "https://s.shopee.co.id/5VTxLww9A4",
-          "originalLink": "https://shopee.co.id/shop/1108744801",
-          "shopId": 1108744801,
-          "shopName": "CeraVe Official Store",
+          "imageUrl": "https://cf.shopee.co.id/file/cb9464c79efa7e6841053d22bd4d5e91",
+          "offerLink": "https://s.shopee.co.id/gPo3JOiM3",
+          "originalLink": "https://shopee.co.id/shop/62582411",
+          "shopId": 62582411,
+          "shopName": "Maybelline Indonesia Official Store",
           "ratingStar": "4.9",
           "shopType": [
             1
           ],
           "remainingBudget": 0,
-          "periodStartTime": 1749011334,
+          "periodStartTime": 1736087100,
           "periodEndTime": 32503651199,
-          "sellerCommCoveRatio": "0.7355",
+          "sellerCommCoveRatio": "0.2519",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.042",
+          "imageUrl": "https://cf.shopee.co.id/file/fdadc06b5ee105495e4c1835deba6d90",
+          "offerLink": "https://s.shopee.co.id/1Vyv2rZENA",
+          "originalLink": "https://shopee.co.id/shop/19260065",
+          "shopId": 19260065,
+          "shopName": "Eiger Adventure Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1736134020,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.9987",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.052",
+          "imageUrl": "https://cf.shopee.co.id/file/ea59ea21c6ace6d722faab2c044f97b4",
+          "offerLink": "https://s.shopee.co.id/4LJ6Q6nPrs",
+          "originalLink": "https://shopee.co.id/shop/161233109",
+          "shopId": 161233109,
+          "shopName": "freemir Official Shop",
+          "ratingStar": "4.8",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1657126800,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.7910",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.062",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-822ws-mmk6i12xlmvc1d",
+          "offerLink": "https://s.shopee.co.id/3g3PcuojYo",
+          "originalLink": "https://shopee.co.id/shop/223032375",
+          "shopId": 223032375,
+          "shopName": "Baseus Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1728295926,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "0.8659",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.112",
+          "imageUrl": "https://cf.shopee.co.id/file/id-11134216-81ztg-meatqj7jkwe91f",
+          "offerLink": "https://s.shopee.co.id/AKaJZDjnUn",
+          "originalLink": "https://shopee.co.id/shop/21762495",
+          "shopId": 21762495,
+          "shopName": "Anker Indonesia Official",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1762160863,
+          "periodEndTime": 32503651199,
+          "sellerCommCoveRatio": "1.0000",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.062",
+          "imageUrl": "https://cf.shopee.co.id/file/1ca7fa0ee4a978bb22c91d5107ea4cb7",
+          "offerLink": "https://s.shopee.co.id/60RKPIGwo1",
+          "originalLink": "https://shopee.co.id/shop/326487418",
+          "shopId": 326487418,
+          "shopName": "Kahf Official Shop",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 1782788400,
+          "periodEndTime": 1790730059,
+          "sellerCommCoveRatio": "0.6649",
+          "bannerInfo": null
+        },
+        {
+          "commissionRate": "0.04",
+          "imageUrl": "https://cf.shopee.co.id/file/013219c1531957d81795c8ab54832da4",
+          "offerLink": "https://s.shopee.co.id/8plVmbUtN0",
+          "originalLink": "https://shopee.co.id/shop/42195663",
+          "shopId": 42195663,
+          "shopName": "Rose Brand Official Store",
+          "ratingStar": "4.9",
+          "shopType": [
+            1
+          ],
+          "remainingBudget": 0,
+          "periodStartTime": 0,
+          "periodEndTime": 0,
+          "sellerCommCoveRatio": "0.0000",
           "bannerInfo": null
         }
     ]
