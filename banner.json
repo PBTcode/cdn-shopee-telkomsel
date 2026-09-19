@@ -1,13 +1,5 @@
 [
   {
-    "image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/banner/banner-4.png",
-    "cta_url": "https://shopee.co.id/scp/1518457597/eyJjaWQiOjExMTQ5MCwic2lkIjoxNTE3NjQ3MTAzLCJpc0RyYWZ0IjpmYWxzZX0%3D"
-  },  
-  {
-    "image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/banner/banner-2.png",
-    "cta_url": "https://my.telkomsel.com/app/flexible-iframe/shopeemytsel"
-  },
-  {
     "image_url": "https://raw.githubusercontent.com/PBTcode/cdn-shopee-telkomsel/main/banner/banner.png",
     "cta_url": "https://my.telkomsel.com/app/flexible-iframe/shopeemytsel"
   },
